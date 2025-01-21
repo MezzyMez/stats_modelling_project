@@ -1,0 +1,4925 @@
+{
+    "network": {
+        "id": "mobibikes",
+        "name": "Mobi",
+        "location": {
+            "latitude": 49.2827,
+            "longitude": -123.1207,
+            "city": "Vancouver",
+            "country": "CA"
+        },
+        "href": "/v2/networks/mobibikes",
+        "company": [
+            "Vanncouver Bike Share Inc.",
+            "CycleHop LLC",
+            "City of Vancouver",
+            "Shaw Communications Inc.",
+            "Fifteen"
+        ],
+        "gbfs_href": "https://vancouver-gbfs.smoove.pro/gbfs/2/gbfs.json",
+        "stations": [
+            {
+                "id": "00fa94ad698dc4a9e4d708d6fd32f294",
+                "name": "Chilco & Barclay",
+                "latitude": 49.291909,
+                "longitude": -123.140713,
+                "timestamp": "2025-01-17T14:25:33.549649Z",
+                "free_bikes": 1,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0092",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123812,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "012d3e06901cc222b1c2cf0a2ace3a29",
+                "name": "St George & Broadway",
+                "latitude": 49.262321,
+                "longitude": -123.09306,
+                "timestamp": "2025-01-17T14:25:33.943243Z",
+                "free_bikes": 2,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0248",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123911,
+                    "slots": 14,
+                    "normal_bikes": 1,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "029a505bd4422a1afd127987757f71a6",
+                "name": "Britannia Parking Lot",
+                "latitude": 49.275882,
+                "longitude": -123.071865,
+                "timestamp": "2025-01-17T14:25:33.617308Z",
+                "free_bikes": 1,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0232",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123364,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0438114d2e6b96118de69bc9775bb21e",
+                "name": "Morton & Denman",
+                "latitude": 49.28803,
+                "longitude": -123.142135,
+                "timestamp": "2025-01-17T14:25:33.547233Z",
+                "free_bikes": 23,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0031",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123723,
+                    "slots": 26,
+                    "normal_bikes": 20,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0459b7e93703980b853cd65a9dc60596",
+                "name": "Thornton & National",
+                "latitude": 49.273777,
+                "longitude": -123.092723,
+                "timestamp": "2025-01-17T14:25:33.617362Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0233",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123678,
+                    "slots": 14,
+                    "normal_bikes": 4,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "04f64fde5ba1ebde8ad78c74914adb34",
+                "name": "Burrard & 14th",
+                "latitude": 49.259469,
+                "longitude": -123.145718,
+                "timestamp": "2025-01-17T14:25:33.616223Z",
+                "free_bikes": 1,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0210",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123716,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "06487275cd19694152824c7c3088e8ff",
+                "name": "Olympic Village Station",
+                "latitude": 49.266314,
+                "longitude": -123.116011,
+                "timestamp": "2025-01-17T14:25:33.545969Z",
+                "free_bikes": 4,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0006",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123770,
+                    "slots": 20,
+                    "normal_bikes": 3,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "064a7b39b1dbc4bfc4cf8f454e360c57",
+                "name": "8th & Macdonald",
+                "latitude": 49.264928,
+                "longitude": -123.168068,
+                "timestamp": "2025-01-17T14:25:33.954276Z",
+                "free_bikes": 3,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0452",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123829,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "066ecc3584913fa035ec1417323beb80",
+                "name": "30th & Ontario",
+                "latitude": 49.243375,
+                "longitude": -123.104978,
+                "timestamp": "2025-01-17T14:25:33.955236Z",
+                "free_bikes": 11,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0557",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123573,
+                    "slots": 22,
+                    "normal_bikes": 9,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "06bdc4d55f34b2a491305534fd5defda",
+                "name": "Lakewood & Triumph",
+                "latitude": 49.283968,
+                "longitude": -123.061615,
+                "timestamp": "2025-01-17T14:25:33.955617Z",
+                "free_bikes": 10,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0631",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123655,
+                    "slots": 16,
+                    "normal_bikes": 7,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "07b13214cb69f2ec007d888450f3d6bc",
+                "name": "13th & Cambie",
+                "latitude": 49.259579,
+                "longitude": -123.114769,
+                "timestamp": "2025-01-17T14:25:33.953330Z",
+                "free_bikes": 2,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0311",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123897,
+                    "slots": 14,
+                    "normal_bikes": 2,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "085a0e120a08a80a58c0ae0ff9da565a",
+                "name": "Arbutus & Nanton",
+                "latitude": 49.247854,
+                "longitude": -123.153422,
+                "timestamp": "2025-01-17T14:25:33.954491Z",
+                "free_bikes": 4,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0480",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123513,
+                    "slots": 18,
+                    "normal_bikes": 2,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "08c7a90bf297fde8c1f1156db13987d4",
+                "name": "14th & Fraser",
+                "latitude": 49.257939,
+                "longitude": -123.089531,
+                "timestamp": "2025-01-17T14:25:33.952796Z",
+                "free_bikes": 1,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0282",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123543,
+                    "slots": 16,
+                    "normal_bikes": 1,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0a43242bee10cd33f539af2c1bf5ecbf",
+                "name": "15th & Victoria (Trout Lake)",
+                "latitude": 49.256857,
+                "longitude": -123.065646,
+                "timestamp": "2025-01-17T14:25:33.952634Z",
+                "free_bikes": 12,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0278",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123763,
+                    "slots": 18,
+                    "normal_bikes": 12,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0b543fc4e694fe07a54dac48bb1b3390",
+                "name": "Robson & Hornby",
+                "latitude": 49.282758,
+                "longitude": -123.122092,
+                "timestamp": "2025-01-17T14:25:33.546796Z",
+                "free_bikes": 0,
+                "empty_slots": 20,
+                "extra": {
+                    "uid": "0019",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123351,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0c42f45e4a14957ad4a6d521d0ba8bc3",
+                "name": "Cardero & Robson",
+                "latitude": 49.289255,
+                "longitude": -123.132677,
+                "timestamp": "2025-01-17T14:25:33.547628Z",
+                "free_bikes": 16,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0041",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123784,
+                    "slots": 26,
+                    "normal_bikes": 12,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0c9ad3e3703e5869b82619ecdf54f43e",
+                "name": "1st & Scotia",
+                "latitude": 49.2685027,
+                "longitude": -123.0975014,
+                "timestamp": "2025-01-17T14:25:33.594943Z",
+                "free_bikes": 13,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0197",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123487,
+                    "slots": 20,
+                    "normal_bikes": 10,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0cee06d7d10f7d3162cea03d22b7beed",
+                "name": "10th & Fraser",
+                "latitude": 49.26151,
+                "longitude": -123.089413,
+                "timestamp": "2025-01-17T14:25:33.952183Z",
+                "free_bikes": 0,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0260",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123842,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0cf6cd1809fa7f510812f5b052f578c4",
+                "name": "Ontario & 5th",
+                "latitude": 49.266724,
+                "longitude": -123.104824,
+                "timestamp": "2025-01-17T14:25:33.548990Z",
+                "free_bikes": 18,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0073",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123794,
+                    "slots": 20,
+                    "normal_bikes": 18,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0d1b5c62f8d22e3650811df55596e25b",
+                "name": "Heather & 16th",
+                "latitude": 49.256845,
+                "longitude": -123.120071,
+                "timestamp": "2025-01-17T14:25:33.592009Z",
+                "free_bikes": 3,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0130",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123907,
+                    "slots": 12,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "0e0aef6fabaa808b3a3cef24657257a4",
+                "name": "Richards & Smithe",
+                "latitude": 49.279259,
+                "longitude": -123.119145,
+                "timestamp": "2025-01-17T14:25:33.548305Z",
+                "free_bikes": 0,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0058",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123403,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "10acadd77bc21f26a7f09d8c74d4af2d",
+                "name": "Robson & Beatty",
+                "latitude": 49.277773,
+                "longitude": -123.114237,
+                "timestamp": "2025-01-17T14:25:33.547043Z",
+                "free_bikes": 12,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0026",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123801,
+                    "slots": 20,
+                    "normal_bikes": 10,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "12dd264419c06f596d1a883ed36efd9c",
+                "name": "Maple Tree Square",
+                "latitude": 49.283482,
+                "longitude": -123.103738,
+                "timestamp": "2025-01-17T14:25:33.546331Z",
+                "free_bikes": 23,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0013",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123797,
+                    "slots": 25,
+                    "normal_bikes": 22,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "13021bba7bbeca1ccd8726ca17da59e6",
+                "name": "22nd & Main",
+                "latitude": 49.25094,
+                "longitude": -123.101306,
+                "timestamp": "2025-01-17T14:25:33.955345Z",
+                "free_bikes": 2,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0563",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123590,
+                    "slots": 14,
+                    "normal_bikes": 1,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1648ead5ea617d2cea115869d9516f5e",
+                "name": "Carrall & Seawall",
+                "latitude": 49.276294,
+                "longitude": -123.106534,
+                "timestamp": "2025-01-17T14:25:33.616555Z",
+                "free_bikes": 9,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0218",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123797,
+                    "slots": 18,
+                    "normal_bikes": 7,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1675a77b9af656faf527b4e6de53e63b",
+                "name": "Charles & Woodland",
+                "latitude": 49.2731,
+                "longitude": -123.0732,
+                "timestamp": "2025-01-17T14:25:33.951832Z",
+                "free_bikes": 10,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0253",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123876,
+                    "slots": 14,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "175a074bf65455d1633639511dc129c8",
+                "name": "1st & Manitoba",
+                "latitude": 49.27023,
+                "longitude": -123.10651,
+                "timestamp": "2025-01-17T14:25:33.594249Z",
+                "free_bikes": 23,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0174",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123757,
+                    "slots": 28,
+                    "normal_bikes": 19,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "17a3320a52bcc62161908967f8a06613",
+                "name": "St Catherines & 7th",
+                "latitude": 49.264466,
+                "longitude": -123.085183,
+                "timestamp": "2025-01-17T14:25:33.952414Z",
+                "free_bikes": 10,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0266",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123668,
+                    "slots": 20,
+                    "normal_bikes": 6,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "198810b9b0af5d229d1b6fa12c620e06",
+                "name": "Triumph & Victoria",
+                "latitude": 49.283986,
+                "longitude": -123.065264,
+                "timestamp": "2025-01-17T14:25:33.952689Z",
+                "free_bikes": 6,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0280",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123707,
+                    "slots": 18,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1bca0e944a4faf170db82793414b03ab",
+                "name": "18th & Main",
+                "latitude": 49.254667,
+                "longitude": -123.101389,
+                "timestamp": "2025-01-17T14:25:33.951956Z",
+                "free_bikes": 6,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0255",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123623,
+                    "slots": 16,
+                    "normal_bikes": 3,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1c8f7fd6535db12cc45cfc59aa9da058",
+                "name": "St Catherines & 10th",
+                "latitude": 49.261353,
+                "longitude": -123.085333,
+                "timestamp": "2025-01-17T14:25:33.952350Z",
+                "free_bikes": 5,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0265",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123413,
+                    "slots": 12,
+                    "normal_bikes": 2,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1d4153659a0a0a2089078c739df6737d",
+                "name": "Nelson & Richards",
+                "latitude": 49.277844,
+                "longitude": -123.120942,
+                "timestamp": "2025-01-17T14:25:33.549229Z",
+                "free_bikes": 5,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0079",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123700,
+                    "slots": 18,
+                    "normal_bikes": 4,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1d442ad1a71774c82688a45954e47bfd",
+                "name": "Arbutus & 10th",
+                "latitude": 49.262835,
+                "longitude": -123.152626,
+                "timestamp": "2025-01-17T14:25:33.549072Z",
+                "free_bikes": 2,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0075",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123878,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1d7e73b3321ebb6713774d376247d9f9",
+                "name": "Comox & Denman",
+                "latitude": 49.288444,
+                "longitude": -123.139203,
+                "timestamp": "2025-01-17T14:25:33.547286Z",
+                "free_bikes": 7,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0032",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123709,
+                    "slots": 18,
+                    "normal_bikes": 3,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1ef01f2f89621d51afbabaa6296e55be",
+                "name": "Prince Edward & 14th",
+                "latitude": 49.258352,
+                "longitude": -123.096337,
+                "timestamp": "2025-01-17T14:25:33.952071Z",
+                "free_bikes": 6,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0257",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123896,
+                    "slots": 14,
+                    "normal_bikes": 4,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "1ef5c4ff3f0b09422bb1597fd9d7568b",
+                "name": "Alexander & Railway",
+                "latitude": 49.283992,
+                "longitude": -123.091206,
+                "timestamp": "2025-01-17T14:25:33.617166Z",
+                "free_bikes": 8,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0230",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123869,
+                    "slots": 20,
+                    "normal_bikes": 5,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "25318ec3e06fae1397a3a2f645104149",
+                "name": "Chilco & Beach",
+                "latitude": 49.28972,
+                "longitude": -123.144028,
+                "timestamp": "2025-01-17T14:25:33.547839Z",
+                "free_bikes": 9,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0047",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123624,
+                    "slots": 14,
+                    "normal_bikes": 7,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "257715b845828e027ff35dd0f11c971e",
+                "name": "Richards & Cordova",
+                "latitude": 49.284554,
+                "longitude": -123.111031,
+                "timestamp": "2025-01-17T14:25:33.591844Z",
+                "free_bikes": 0,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0124",
+                    "renting": false,
+                    "returning": false,
+                    "last_updated": 0,
+                    "slots": 16,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "261efc67071963969b3f848c66454d97",
+                "name": "Orchard Commons",
+                "latitude": 49.259999,
+                "longitude": -123.250902,
+                "timestamp": "2025-01-17T14:25:33.955885Z",
+                "free_bikes": 1,
+                "empty_slots": 25,
+                "extra": {
+                    "uid": "2116",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123765,
+                    "slots": 26,
+                    "normal_bikes": 1,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "26555ebe3663991da07220d12b0f054a",
+                "name": "Strangway Building",
+                "latitude": 49.2661,
+                "longitude": -123.24568,
+                "timestamp": "2025-01-17T14:25:33.956464Z",
+                "free_bikes": 5,
+                "empty_slots": 19,
+                "extra": {
+                    "uid": "2154",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123899,
+                    "slots": 24,
+                    "normal_bikes": 2,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "2681455ba2d97283998a806b14d3e95c",
+                "name": "Yew & Broadway",
+                "latitude": 49.263523,
+                "longitude": -123.155267,
+                "timestamp": "2025-01-17T14:25:33.954599Z",
+                "free_bikes": 0,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0484",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123392,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "277b4b4881bdb7dac73012672179def8",
+                "name": "Woodland & 10th",
+                "latitude": 49.261263,
+                "longitude": -123.073707,
+                "timestamp": "2025-01-17T14:25:33.618005Z",
+                "free_bikes": 13,
+                "empty_slots": 1,
+                "extra": {
+                    "uid": "0245",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123866,
+                    "slots": 14,
+                    "normal_bikes": 11,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "2781435bde344e1b64f1bebac6bc9008",
+                "name": "Ontario & 16th",
+                "latitude": 49.256825,
+                "longitude": -123.105234,
+                "timestamp": "2025-01-17T14:25:33.592116Z",
+                "free_bikes": 1,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0133",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123687,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "2ca388bba54706770900ca2a9d7aa5be",
+                "name": "14th & Alder",
+                "latitude": 49.258819,
+                "longitude": -123.131317,
+                "timestamp": "2025-01-17T14:25:33.616279Z",
+                "free_bikes": 5,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0211",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123583,
+                    "slots": 14,
+                    "normal_bikes": 2,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "2f09a64507cf6257c67ca20af27339eb",
+                "name": "Chestnut & McNicoll",
+                "latitude": 49.275938,
+                "longitude": -123.145939,
+                "timestamp": "2025-01-17T14:25:33.592650Z",
+                "free_bikes": 8,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0147",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123756,
+                    "slots": 16,
+                    "normal_bikes": 4,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "2ff7eb4230654603592ab1b0780ec5e1",
+                "name": "Dunbar & 6th",
+                "latitude": 49.266636,
+                "longitude": -123.183661,
+                "timestamp": "2025-01-17T14:25:33.953904Z",
+                "free_bikes": 11,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0414",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123871,
+                    "slots": 16,
+                    "normal_bikes": 11,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "30bf49544b1c864688b78172d42cca5e",
+                "name": "Stanley Park - Vancouver Aquarium",
+                "latitude": 49.299292,
+                "longitude": -123.130281,
+                "timestamp": "2025-01-17T14:25:33.590903Z",
+                "free_bikes": 8,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0101",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123748,
+                    "slots": 17,
+                    "normal_bikes": 7,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "32603a87cfca71d0f7dfa3513bad69d5",
+                "name": "Yaletown-Roundhouse Station",
+                "latitude": 49.274566,
+                "longitude": -123.121817,
+                "timestamp": "2025-01-17T14:25:33.545857Z",
+                "free_bikes": 13,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0004",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123832,
+                    "slots": 16,
+                    "normal_bikes": 11,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "32f70f7ae14ba87523c6286a6c4d5c37",
+                "name": "Smithe & Burrard",
+                "latitude": 49.282503,
+                "longitude": -123.124697,
+                "timestamp": "2025-01-17T14:25:33.616500Z",
+                "free_bikes": 1,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0217",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123790,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "3367c1e1dbf73caf7c10e4c96a92f58d",
+                "name": "Abbott & Cordova",
+                "latitude": 49.282759,
+                "longitude": -123.106955,
+                "timestamp": "2025-01-17T14:25:33.547193Z",
+                "free_bikes": 20,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0030",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123907,
+                    "slots": 22,
+                    "normal_bikes": 20,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "34fd37d12eb989b49518ef53941ee3ff",
+                "name": "Sasamat & 10th",
+                "latitude": 49.264019,
+                "longitude": -123.209176,
+                "timestamp": "2025-01-17T14:25:33.955778Z",
+                "free_bikes": 3,
+                "empty_slots": 19,
+                "extra": {
+                    "uid": "0716",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123800,
+                    "slots": 22,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "3596b4831ee2ea7812de753b32306835",
+                "name": "Vine & 4th",
+                "latitude": 49.268339,
+                "longitude": -123.157443,
+                "timestamp": "2025-01-17T14:25:33.593054Z",
+                "free_bikes": 4,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0159",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123424,
+                    "slots": 18,
+                    "normal_bikes": 1,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "35eb539fb9298bb7e4f6759ca0256505",
+                "name": "10th & Ontario",
+                "latitude": 49.262062,
+                "longitude": -123.104656,
+                "timestamp": "2025-01-17T14:25:33.594304Z",
+                "free_bikes": 3,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0176",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123535,
+                    "slots": 20,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "365da33e9ce06ea53db1173a0f8eae71",
+                "name": "Pine & 10th",
+                "latitude": 49.262822,
+                "longitude": -123.14338,
+                "timestamp": "2025-01-17T14:25:33.615984Z",
+                "free_bikes": 4,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0205",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123730,
+                    "slots": 20,
+                    "normal_bikes": 2,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "38f045e3f43f86eae42ca4c60257ade0",
+                "name": "Wallace & 4th",
+                "latitude": 49.268974,
+                "longitude": -123.190701,
+                "timestamp": "2025-01-17T14:25:33.953700Z",
+                "free_bikes": 7,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0401",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123866,
+                    "slots": 18,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "3a4131fa94946d93d3529136efd62413",
+                "name": "Pacific & Richards",
+                "latitude": 49.273663,
+                "longitude": -123.127075,
+                "timestamp": "2025-01-17T14:25:33.547698Z",
+                "free_bikes": 10,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0044",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123909,
+                    "slots": 14,
+                    "normal_bikes": 7,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "3aed670ccdcd94b966c0f505f8b028c7",
+                "name": "7th &  Alder",
+                "latitude": 49.265198,
+                "longitude": -123.131043,
+                "timestamp": "2025-01-17T14:25:33.594783Z",
+                "free_bikes": 3,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0192",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123714,
+                    "slots": 16,
+                    "normal_bikes": 2,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "3e112f9fe877e0003780386359060ae6",
+                "name": "Canada Place",
+                "latitude": 49.287214,
+                "longitude": -123.11287,
+                "timestamp": "2025-01-17T14:25:33.546588Z",
+                "free_bikes": 18,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0014",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123827,
+                    "slots": 26,
+                    "normal_bikes": 17,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "41a55a7e2908fbbd65175b794d26bc8d",
+                "name": "Heather & 18th",
+                "latitude": 49.255034,
+                "longitude": -123.120226,
+                "timestamp": "2025-01-17T14:25:33.954704Z",
+                "free_bikes": 5,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0511",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123731,
+                    "slots": 16,
+                    "normal_bikes": 4,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "421516af381a11f54d07fc79be68d3d3",
+                "name": "14th & Oak",
+                "latitude": 49.258761,
+                "longitude": -123.127071,
+                "timestamp": "2025-01-17T14:25:33.615854Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0202",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123663,
+                    "slots": 14,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "434b6f4e7fc30198f901b60fc905f609",
+                "name": "Bute & Comox",
+                "latitude": 49.283343,
+                "longitude": -123.131099,
+                "timestamp": "2025-01-17T14:25:33.547968Z",
+                "free_bikes": 11,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0050",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123476,
+                    "slots": 22,
+                    "normal_bikes": 8,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "444991edc9550be0908f032da5e3c95f",
+                "name": "Comox & Broughton",
+                "latitude": 49.285253,
+                "longitude": -123.134356,
+                "timestamp": "2025-01-17T14:25:33.547894Z",
+                "free_bikes": 2,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0048",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123599,
+                    "slots": 12,
+                    "normal_bikes": 2,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "44fc3d58831a9f2b919c7a3a1838b74a",
+                "name": "Station & Terminal",
+                "latitude": 49.272172,
+                "longitude": -123.097978,
+                "timestamp": "2025-01-17T14:25:33.953595Z",
+                "free_bikes": 7,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0354",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123490,
+                    "slots": 18,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "45a4c865db23e1cad0209afa5a799de0",
+                "name": "Stanley Park - Third Beach Parking Lot",
+                "latitude": 49.302577,
+                "longitude": -123.155616,
+                "timestamp": "2025-01-17T14:25:33.591031Z",
+                "free_bikes": 23,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0103",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123732,
+                    "slots": 38,
+                    "normal_bikes": 19,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "475627e149c1a6ba73caac8d8d2fa617",
+                "name": "Woodland & 4th",
+                "latitude": 49.266751,
+                "longitude": -123.073501,
+                "timestamp": "2025-01-17T14:25:33.951634Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0250",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123557,
+                    "slots": 14,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "485d4d24c803cfde829ab89699fed833",
+                "name": "8th & Ash",
+                "latitude": 49.264215,
+                "longitude": -123.117772,
+                "timestamp": "2025-01-17T14:25:33.546085Z",
+                "free_bikes": 5,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0008",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123571,
+                    "slots": 16,
+                    "normal_bikes": 5,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "4990fe5772f3b73eebeec125b41e478e",
+                "name": "Burrard & Drake",
+                "latitude": 49.27808,
+                "longitude": -123.130557,
+                "timestamp": "2025-01-17T14:25:33.549589Z",
+                "free_bikes": 6,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0089",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123404,
+                    "slots": 24,
+                    "normal_bikes": 2,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "4ac99b928a91d8ccb785c9d0b805adb6",
+                "name": "10th & Kingsway",
+                "latitude": 49.261973,
+                "longitude": -123.09725,
+                "timestamp": "2025-01-17T14:25:33.594519Z",
+                "free_bikes": 7,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0186",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123812,
+                    "slots": 20,
+                    "normal_bikes": 5,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "4cb84c9a3743287019ae00ceef9a1cd3",
+                "name": "10th & Oak",
+                "latitude": 49.262255,
+                "longitude": -123.126217,
+                "timestamp": "2025-01-17T14:25:33.591474Z",
+                "free_bikes": 1,
+                "empty_slots": 20,
+                "extra": {
+                    "uid": "0112",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123660,
+                    "slots": 22,
+                    "normal_bikes": 1,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "4e8fdc99e77ba1b70d90e124a704d0c1",
+                "name": "Hawks & Union",
+                "latitude": 49.277333,
+                "longitude": -123.087359,
+                "timestamp": "2025-01-17T14:25:33.616610Z",
+                "free_bikes": 7,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0219",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123514,
+                    "slots": 16,
+                    "normal_bikes": 5,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "4f6ebf2026d540ffe40e29a80138ad5e",
+                "name": "Marinaside & Cooperage",
+                "latitude": 49.273833,
+                "longitude": -123.114373,
+                "timestamp": "2025-01-17T14:25:33.548250Z",
+                "free_bikes": 8,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0057",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123569,
+                    "slots": 26,
+                    "normal_bikes": 4,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5105df3dd0daf4c26980f4134f61e5cc",
+                "name": "Alberni & Jervis",
+                "latitude": 49.28763,
+                "longitude": -123.127245,
+                "timestamp": "2025-01-17T14:25:33.616112Z",
+                "free_bikes": 10,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0207",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737101333,
+                    "slots": 20,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "51e4d3731aebbf9c3186f310a08de6c8",
+                "name": "7th & Arbutus",
+                "latitude": 49.265605,
+                "longitude": -123.152566,
+                "timestamp": "2025-01-17T14:25:33.591365Z",
+                "free_bikes": 5,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0109",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123887,
+                    "slots": 16,
+                    "normal_bikes": 3,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "521c2122c791ed038168c3b8ff24061b",
+                "name": "14th & Ontario",
+                "latitude": 49.25849,
+                "longitude": -123.104799,
+                "timestamp": "2025-01-17T14:25:33.592063Z",
+                "free_bikes": 5,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0132",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123365,
+                    "slots": 16,
+                    "normal_bikes": 3,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "549f00f6039e8bb702a00dcca08a8ed0",
+                "name": "King Edward & Cambie",
+                "latitude": 49.249184,
+                "longitude": -123.116141,
+                "timestamp": "2025-01-17T14:25:33.954901Z",
+                "free_bikes": 1,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0524",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123509,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5699b40126e10c2f68eefc3eb18ff3a1",
+                "name": "1st & Fir",
+                "latitude": 49.270783,
+                "longitude": -123.141564,
+                "timestamp": "2025-01-17T14:25:33.953489Z",
+                "free_bikes": 14,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0315",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123857,
+                    "slots": 20,
+                    "normal_bikes": 10,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "56fef9ba0af67a4ff3e661a8e02c0b08",
+                "name": "Arbutus & 16th",
+                "latitude": 49.257654,
+                "longitude": -123.153212,
+                "timestamp": "2025-01-17T14:25:33.591528Z",
+                "free_bikes": 2,
+                "empty_slots": 38,
+                "extra": {
+                    "uid": "0113",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737119106,
+                    "slots": 40,
+                    "normal_bikes": 1,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5726de7c5646b82f7aaeafba50aee03e",
+                "name": "War Memorial Gym",
+                "latitude": 49.2665793,
+                "longitude": -123.2485487,
+                "timestamp": "2025-01-17T14:25:33.956292Z",
+                "free_bikes": 3,
+                "empty_slots": 25,
+                "extra": {
+                    "uid": "2143",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123905,
+                    "slots": 28,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "57d39a680c9407cda0fb4de6d9c55138",
+                "name": "28th & Willow",
+                "latitude": 49.246243,
+                "longitude": -123.124373,
+                "timestamp": "2025-01-17T14:25:33.954652Z",
+                "free_bikes": 1,
+                "empty_slots": 19,
+                "extra": {
+                    "uid": "0505",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123843,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "57e928d8c30fab0ebffb3ede850f89d6",
+                "name": "Arbutus Greenway & Fir",
+                "latitude": 49.266774,
+                "longitude": -123.141135,
+                "timestamp": "2025-01-17T14:25:33.592861Z",
+                "free_bikes": 6,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0153",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123805,
+                    "slots": 16,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "58345bb719f4e570ed4edc9dfa6a68a2",
+                "name": "West Mall Swing Space Building",
+                "latitude": 49.263073,
+                "longitude": -123.254307,
+                "timestamp": "2025-01-17T14:25:33.955831Z",
+                "free_bikes": 15,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "2114",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123520,
+                    "slots": 20,
+                    "normal_bikes": 11,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "58a026f0c506caec20697a4f90538450",
+                "name": "McLean & Pender",
+                "latitude": 49.280427,
+                "longitude": -123.074082,
+                "timestamp": "2025-01-17T14:25:33.616878Z",
+                "free_bikes": 11,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0225",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123711,
+                    "slots": 16,
+                    "normal_bikes": 9,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5a34495280727a5b50b9aa41e14e9a16",
+                "name": "Bute & Barclay",
+                "latitude": 49.284893,
+                "longitude": -123.128685,
+                "timestamp": "2025-01-17T14:25:33.953118Z",
+                "free_bikes": 14,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0300",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123715,
+                    "slots": 30,
+                    "normal_bikes": 12,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5ba6e9725b1b0ee8cd25df976e47726b",
+                "name": "Balsam & Cornwall",
+                "latitude": 49.273011,
+                "longitude": -123.159663,
+                "timestamp": "2025-01-17T14:25:33.954438Z",
+                "free_bikes": 5,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0470",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123801,
+                    "slots": 18,
+                    "normal_bikes": 5,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5de0fe55497681d4cc9dd25509cf51ab",
+                "name": "Hastings & Broughton",
+                "latitude": 49.290112,
+                "longitude": -123.127062,
+                "timestamp": "2025-01-17T14:25:33.547393Z",
+                "free_bikes": 19,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0035",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123735,
+                    "slots": 24,
+                    "normal_bikes": 14,
+                    "ebikes": 5,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5f45325fdd6334a4c0d3b62853b19fa6",
+                "name": "Seymour & Cordova",
+                "latitude": 49.28512,
+                "longitude": -123.11242,
+                "timestamp": "2025-01-17T14:25:33.953225Z",
+                "free_bikes": 6,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0308",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123706,
+                    "slots": 19,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "5fc29e0ac42c11abb45bf12aaeb925bd",
+                "name": "Alder & 11th",
+                "latitude": 49.261742,
+                "longitude": -123.13148,
+                "timestamp": "2025-01-17T14:25:33.593967Z",
+                "free_bikes": 4,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0166",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123487,
+                    "slots": 14,
+                    "normal_bikes": 2,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "61901a235d4cfceb7f8f2c3888b98617",
+                "name": "10th & Columbia",
+                "latitude": 49.262206,
+                "longitude": -123.109091,
+                "timestamp": "2025-01-17T14:25:33.594140Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0172",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123807,
+                    "slots": 14,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "625a2ad202275c8e2be3ce868e85b105",
+                "name": "Heather & 14th",
+                "latitude": 49.259183,
+                "longitude": -123.120126,
+                "timestamp": "2025-01-17T14:25:33.591204Z",
+                "free_bikes": 10,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0106",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123799,
+                    "slots": 16,
+                    "normal_bikes": 7,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "62a202eb98c0a4b09ba6746f5ee94ab3",
+                "name": "Commercial & 20th",
+                "latitude": 49.252656,
+                "longitude": -123.067965,
+                "timestamp": "2025-01-17T14:25:33.953542Z",
+                "free_bikes": 4,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0352",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123554,
+                    "slots": 20,
+                    "normal_bikes": 4,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6526a2eb3832f9ba0224d237e901ea5b",
+                "name": "Kitsilano Beach Park",
+                "latitude": 49.273355,
+                "longitude": -123.154493,
+                "timestamp": "2025-01-17T14:25:33.592914Z",
+                "free_bikes": 10,
+                "empty_slots": 26,
+                "extra": {
+                    "uid": "0154",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123891,
+                    "slots": 36,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6620c54bd6b3a79800b2b67e999b24d0",
+                "name": "Rolston & Granville",
+                "latitude": 49.274232,
+                "longitude": -123.129998,
+                "timestamp": "2025-01-17T14:25:33.953436Z",
+                "free_bikes": 9,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0314",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123538,
+                    "slots": 16,
+                    "normal_bikes": 6,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "664502c28e8147615f17b8ea355f40d0",
+                "name": "Cordova & Bute",
+                "latitude": 49.289124,
+                "longitude": -123.12196,
+                "timestamp": "2025-01-17T14:25:33.547340Z",
+                "free_bikes": 10,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0034",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123854,
+                    "slots": 14,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "66f873d641d448bd1572ab086665a458",
+                "name": "12th & Yukon (City Hall)",
+                "latitude": 49.260599,
+                "longitude": -123.113504,
+                "timestamp": "2025-01-17T14:25:33.546028Z",
+                "free_bikes": 1,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0007",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123850,
+                    "slots": 16,
+                    "normal_bikes": 1,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "671ce9e4a92063620f772d2c57f0f3ab",
+                "name": "Blenheim & 4th",
+                "latitude": 49.268837,
+                "longitude": -123.177633,
+                "timestamp": "2025-01-17T14:25:33.954013Z",
+                "free_bikes": 5,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0431",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123604,
+                    "slots": 23,
+                    "normal_bikes": 4,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "680b1ddfd50c4397b365c9c00f09b0d1",
+                "name": "Wylie & 2nd",
+                "latitude": 49.267725,
+                "longitude": -123.11311,
+                "timestamp": "2025-01-17T14:25:33.592597Z",
+                "free_bikes": 15,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0144",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123840,
+                    "slots": 18,
+                    "normal_bikes": 13,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "686b314a6c3348efd2297d6b3dfed1a7",
+                "name": "Thurlow & Pendrell",
+                "latitude": 49.280881,
+                "longitude": -123.130672,
+                "timestamp": "2025-01-17T14:25:33.591898Z",
+                "free_bikes": 8,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0126",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123434,
+                    "slots": 16,
+                    "normal_bikes": 8,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "686c0fdb962e26e274d81fc286c010dd",
+                "name": "14th & Cambie",
+                "latitude": 49.258763,
+                "longitude": -123.115392,
+                "timestamp": "2025-01-17T14:25:33.548763Z",
+                "free_bikes": 0,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0072",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123800,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6993b3dbb0758927967592ea612a2b1e",
+                "name": "Granville & Georgia",
+                "latitude": 49.282409,
+                "longitude": -123.118541,
+                "timestamp": "2025-01-17T14:25:33.546640Z",
+                "free_bikes": 1,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0015",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123653,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6b1622540fe5c85d365754dd8c20bf0c",
+                "name": "Grant & Commercial",
+                "latitude": 49.271377,
+                "longitude": -123.069416,
+                "timestamp": "2025-01-17T14:25:33.617528Z",
+                "free_bikes": 2,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0239",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123726,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6c0de983fb47a3439a9e3c36a3d15804",
+                "name": "8th & Ontario",
+                "latitude": 49.263837,
+                "longitude": -123.105173,
+                "timestamp": "2025-01-17T14:25:33.591258Z",
+                "free_bikes": 3,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0107",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123845,
+                    "slots": 16,
+                    "normal_bikes": 2,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6c24a62b5ee0a2a8014eb0dfb6d40025",
+                "name": "Hornby & Nelson",
+                "latitude": 49.28062,
+                "longitude": -123.12482,
+                "timestamp": "2025-01-17T14:25:33.547490Z",
+                "free_bikes": 0,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0037",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123554,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6c7fb9043e6df5a4cc50404581a947b9",
+                "name": "\u0161x\u02b7\u019b\u0313\u0259n\u0259q Xwtl'e7\u00e9n\u1e35 Square - Vancouver Art Gallery",
+                "latitude": 49.283227,
+                "longitude": -123.120523,
+                "timestamp": "2025-01-17T14:25:33.590806Z",
+                "free_bikes": 0,
+                "empty_slots": 26,
+                "extra": {
+                    "uid": "0099",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123881,
+                    "slots": 28,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6d42fa40360f9a6b2bf641c7b8bb2862",
+                "name": "Dunsmuir & Beatty",
+                "latitude": 49.279764,
+                "longitude": -123.110154,
+                "timestamp": "2025-01-17T14:25:33.545911Z",
+                "free_bikes": 9,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0005",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123878,
+                    "slots": 26,
+                    "normal_bikes": 9,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6ddeafa873279951630a00191333c45d",
+                "name": "Robson & Granville",
+                "latitude": 49.281506,
+                "longitude": -123.120101,
+                "timestamp": "2025-01-17T14:25:33.548408Z",
+                "free_bikes": 1,
+                "empty_slots": 22,
+                "extra": {
+                    "uid": "0063",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123667,
+                    "slots": 24,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "6eaa02e5bcf78db5386683d38fa2dabd",
+                "name": "4th & Commercial",
+                "latitude": 49.266969,
+                "longitude": -123.069936,
+                "timestamp": "2025-01-17T14:25:33.617765Z",
+                "free_bikes": 1,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0241",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123583,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "707c1c54e0278fbae5d0ae3c42a25b71",
+                "name": "8th & Scotia",
+                "latitude": 49.263635,
+                "longitude": -123.099236,
+                "timestamp": "2025-01-17T14:25:33.616055Z",
+                "free_bikes": 3,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0206",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123558,
+                    "slots": 12,
+                    "normal_bikes": 1,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7181df50ee1d1a05559399211382b7c8",
+                "name": "Homer & Robson (Vancouver Public Library)",
+                "latitude": 49.279739,
+                "longitude": -123.116251,
+                "timestamp": "2025-01-17T14:25:33.546995Z",
+                "free_bikes": 3,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0025",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123517,
+                    "slots": 20,
+                    "normal_bikes": 1,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "71c064fa93cab5f0b7306e6c923b77c4",
+                "name": "7th & Granville",
+                "latitude": 49.2653,
+                "longitude": -123.13811,
+                "timestamp": "2025-01-17T14:25:33.548633Z",
+                "free_bikes": 5,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0069",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123543,
+                    "slots": 14,
+                    "normal_bikes": 1,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "72c1049dfbbde7c24ec45c14f1a5ee85",
+                "name": "Harwood & Bute",
+                "latitude": 49.28026,
+                "longitude": -123.135244,
+                "timestamp": "2025-01-17T14:25:33.549516Z",
+                "free_bikes": 19,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0088",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123909,
+                    "slots": 20,
+                    "normal_bikes": 15,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "73f388336d879bedc962cd412eb0296e",
+                "name": "Creekside Park North",
+                "latitude": 49.2756,
+                "longitude": -123.102661,
+                "timestamp": "2025-01-17T14:25:33.592701Z",
+                "free_bikes": 10,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0148",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123663,
+                    "slots": 18,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "77163e893653b88926e07fd6b9f688da",
+                "name": "Nicola & Robson",
+                "latitude": 49.2885056,
+                "longitude": -123.1312375,
+                "timestamp": "2025-01-17T14:25:33.549738Z",
+                "free_bikes": 1,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0096",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123789,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "797ff1725f8d2b18337de51e240ff60d",
+                "name": "10th & Commercial",
+                "latitude": 49.261403,
+                "longitude": -123.070102,
+                "timestamp": "2025-01-17T14:25:33.617947Z",
+                "free_bikes": 18,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0244",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123850,
+                    "slots": 26,
+                    "normal_bikes": 14,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7a19c49f486d7c0c02b3685d7b240448",
+                "name": "10th & Cambie",
+                "latitude": 49.262487,
+                "longitude": -123.114397,
+                "timestamp": "2025-01-17T14:25:33.545706Z",
+                "free_bikes": 9,
+                "empty_slots": 27,
+                "extra": {
+                    "uid": "0001",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123899,
+                    "slots": 36,
+                    "normal_bikes": 9,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7b8dfa12900bcb02b47a14e4e5010ba3",
+                "name": "Quebec & 1st",
+                "latitude": 49.27033,
+                "longitude": -123.10275,
+                "timestamp": "2025-01-17T14:25:33.594358Z",
+                "free_bikes": 7,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0177",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123679,
+                    "slots": 18,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7c17f51469f1a7145455f65ef6afbd87",
+                "name": "Lakewood & Oxford",
+                "latitude": 49.285575,
+                "longitude": -123.061575,
+                "timestamp": "2025-01-17T14:25:33.955562Z",
+                "free_bikes": 11,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0621",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123837,
+                    "slots": 18,
+                    "normal_bikes": 9,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7d231a181d21056e4ba80c4d9939fe92",
+                "name": "Carolina & Great Northern Way",
+                "latitude": 49.267266,
+                "longitude": -123.090786,
+                "timestamp": "2025-01-17T14:25:33.952956Z",
+                "free_bikes": 14,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0287",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123841,
+                    "slots": 16,
+                    "normal_bikes": 10,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7ed043a19e6a4ece742fe747b663bdbf",
+                "name": "Columbia & 5th",
+                "latitude": 49.266476,
+                "longitude": -123.109389,
+                "timestamp": "2025-01-17T14:25:33.593895Z",
+                "free_bikes": 10,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0165",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123771,
+                    "slots": 18,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "7f091b50fbbd892bf9fb869a64c47120",
+                "name": "East Blvd & 37th",
+                "latitude": 49.238105,
+                "longitude": -123.154966,
+                "timestamp": "2025-01-17T14:25:33.954545Z",
+                "free_bikes": 2,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0482",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123666,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "80b5c12ef21fd47275d37b2c9935249c",
+                "name": "Trafalgar & Cornwall",
+                "latitude": 49.272969,
+                "longitude": -123.164325,
+                "timestamp": "2025-01-17T14:25:33.954330Z",
+                "free_bikes": 8,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0460",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123564,
+                    "slots": 20,
+                    "normal_bikes": 8,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "826af7eee4ce28b6fa4b4f0211305792",
+                "name": "5th & Arbutus",
+                "latitude": 49.267222,
+                "longitude": -123.153157,
+                "timestamp": "2025-01-17T14:25:33.591420Z",
+                "free_bikes": 3,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0110",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123745,
+                    "slots": 16,
+                    "normal_bikes": 2,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "82c794442f54fabf9db6e392ca1fac0f",
+                "name": "Stanley Park - Information Booth",
+                "latitude": 49.297933,
+                "longitude": -123.130758,
+                "timestamp": "2025-01-17T14:25:33.616168Z",
+                "free_bikes": 17,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0209",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123848,
+                    "slots": 20,
+                    "normal_bikes": 11,
+                    "ebikes": 6,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "838d5bb59963474ad08a6d5b156943ed",
+                "name": "14th & Main",
+                "latitude": 49.258425,
+                "longitude": -123.100792,
+                "timestamp": "2025-01-17T14:25:33.592170Z",
+                "free_bikes": 0,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0134",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123569,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "852212d6d52b5f00544fad01d21c7db2",
+                "name": "Georgia & Main",
+                "latitude": 49.278529,
+                "longitude": -123.100017,
+                "timestamp": "2025-01-17T14:25:33.595047Z",
+                "free_bikes": 13,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0199",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123716,
+                    "slots": 20,
+                    "normal_bikes": 13,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8757f74d199ba5cdbcf6ffe98a993c4d",
+                "name": "Agronomy & East Mall",
+                "latitude": 49.261736,
+                "longitude": -123.24648,
+                "timestamp": "2025-01-17T14:25:33.956153Z",
+                "free_bikes": 6,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "2136",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123738,
+                    "slots": 18,
+                    "normal_bikes": 2,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "899f59a9994302e8e1e4be01117ef707",
+                "name": "Alma & Point Grey",
+                "latitude": 49.27247,
+                "longitude": -123.185643,
+                "timestamp": "2025-01-17T14:25:33.953844Z",
+                "free_bikes": 11,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0410",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123437,
+                    "slots": 24,
+                    "normal_bikes": 11,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "89a0b49a66e54a7639ad960962148a3e",
+                "name": "20th & Main",
+                "latitude": 49.252691,
+                "longitude": -123.101289,
+                "timestamp": "2025-01-17T14:25:33.955291Z",
+                "free_bikes": 0,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0561",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123337,
+                    "slots": 16,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8c9ea7f2132376859ef34fab981d6932",
+                "name": "Nelson & Mainland",
+                "latitude": 49.276436,
+                "longitude": -123.11877,
+                "timestamp": "2025-01-17T14:25:33.549190Z",
+                "free_bikes": 16,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0078",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123819,
+                    "slots": 20,
+                    "normal_bikes": 14,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8d2d5bb3b9142f781f2a7f441e6bad7a",
+                "name": "Point Grey & Blenheim",
+                "latitude": 49.271471,
+                "longitude": -123.17731,
+                "timestamp": "2025-01-17T14:25:33.954066Z",
+                "free_bikes": 6,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0440",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123574,
+                    "slots": 14,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8d5f47f01d7ad668419dfe9b7fe69c9a",
+                "name": "Yukon & 6th",
+                "latitude": 49.265939,
+                "longitude": -123.1129,
+                "timestamp": "2025-01-17T14:25:33.594085Z",
+                "free_bikes": 8,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0171",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123813,
+                    "slots": 18,
+                    "normal_bikes": 7,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8d6f0cbf7d44d2908c8ce73ed00dbf66",
+                "name": "Burrard & 7th",
+                "latitude": 49.265336,
+                "longitude": -123.145823,
+                "timestamp": "2025-01-17T14:25:33.592437Z",
+                "free_bikes": 1,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0140",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123411,
+                    "slots": 16,
+                    "normal_bikes": 1,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8dc684732a2a25bdf63ec0ecccee4e6e",
+                "name": "14th & Granville",
+                "latitude": 49.25894,
+                "longitude": -123.139272,
+                "timestamp": "2025-01-17T14:25:33.548719Z",
+                "free_bikes": 1,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0071",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123901,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8e44a17d2fa446ca220b90c7063b42ca",
+                "name": "Wall & Eton",
+                "latitude": 49.287464,
+                "longitude": -123.060771,
+                "timestamp": "2025-01-17T14:25:33.955452Z",
+                "free_bikes": 7,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0611",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123812,
+                    "slots": 18,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8e93d0da1ee6caadf21ed9575b5fa9da",
+                "name": "Beach & Cardero",
+                "latitude": 49.283298,
+                "longitude": -123.142288,
+                "timestamp": "2025-01-17T14:25:33.592491Z",
+                "free_bikes": 20,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0142",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123892,
+                    "slots": 22,
+                    "normal_bikes": 17,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "8fb5ce1e34ad31de940481953aea452c",
+                "name": "Cypress & 4th",
+                "latitude": 49.268269,
+                "longitude": -123.147885,
+                "timestamp": "2025-01-17T14:25:33.549112Z",
+                "free_bikes": 5,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0076",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123559,
+                    "slots": 18,
+                    "normal_bikes": 4,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "90c746df94ce1a12f1f617acfe4a8ce3",
+                "name": "Bute & Robson",
+                "latitude": 49.285836,
+                "longitude": -123.127265,
+                "timestamp": "2025-01-17T14:25:33.547443Z",
+                "free_bikes": 0,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0036",
+                    "renting": false,
+                    "returning": false,
+                    "last_updated": 0,
+                    "slots": 0,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "910027847876403b57f1013c16504688",
+                "name": "Richards & Robson",
+                "latitude": 49.280216,
+                "longitude": -123.117639,
+                "timestamp": "2025-01-17T14:25:33.591953Z",
+                "free_bikes": 0,
+                "empty_slots": 19,
+                "extra": {
+                    "uid": "0129",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123818,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "91035fe1d70b65c9cb8ec4a007af7c7f",
+                "name": "Glen & Union",
+                "latitude": 49.277469,
+                "longitude": -123.081315,
+                "timestamp": "2025-01-17T14:25:33.616663Z",
+                "free_bikes": 5,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0221",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123382,
+                    "slots": 14,
+                    "normal_bikes": 2,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9130f9aa3bb037a04c17e6f2630327e5",
+                "name": "8th & Yukon",
+                "latitude": 49.263962,
+                "longitude": -123.112621,
+                "timestamp": "2025-01-17T14:25:33.594028Z",
+                "free_bikes": 12,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0170",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123653,
+                    "slots": 24,
+                    "normal_bikes": 10,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "92c9e62c0b42adf4759c430009d3987a",
+                "name": "1st & Chestnut",
+                "latitude": 49.270721,
+                "longitude": -123.146175,
+                "timestamp": "2025-01-17T14:25:33.591312Z",
+                "free_bikes": 25,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0108",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123537,
+                    "slots": 26,
+                    "normal_bikes": 23,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "93c88a18c673e2c72a6afa93d6b89f18",
+                "name": "10th & Main",
+                "latitude": 49.262141,
+                "longitude": -123.101961,
+                "timestamp": "2025-01-17T14:25:33.549031Z",
+                "free_bikes": 6,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0074",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123807,
+                    "slots": 18,
+                    "normal_bikes": 4,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9413725a5d3bb5ce2ad0682b07a3ffab",
+                "name": "Georgia & Homer",
+                "latitude": 49.280787,
+                "longitude": -123.115271,
+                "timestamp": "2025-01-17T14:25:33.953172Z",
+                "free_bikes": 0,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0305",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123902,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9449a6a83fbf88452e384350e5ac95b7",
+                "name": "York & Yew",
+                "latitude": 49.271741,
+                "longitude": -123.155421,
+                "timestamp": "2025-01-17T14:25:33.615922Z",
+                "free_bikes": 17,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0204",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123670,
+                    "slots": 20,
+                    "normal_bikes": 13,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "95e624191c655f50e401d280cd39a9ad",
+                "name": "Ontario & Seawall",
+                "latitude": 49.271721,
+                "longitude": -123.104207,
+                "timestamp": "2025-01-17T14:25:33.546234Z",
+                "free_bikes": 2,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0011",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123577,
+                    "slots": 20,
+                    "normal_bikes": 2,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "96bf713e60bc35cc2feb5fd53a4f3471",
+                "name": "10th & Granville",
+                "latitude": 49.262598,
+                "longitude": -123.138921,
+                "timestamp": "2025-01-17T14:25:33.548676Z",
+                "free_bikes": 0,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0070",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123456,
+                    "slots": 14,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "97005696a3dff3366a8410b817388990",
+                "name": "15th & Knight",
+                "latitude": 49.256496,
+                "longitude": -123.075426,
+                "timestamp": "2025-01-17T14:25:33.952849Z",
+                "free_bikes": 11,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0283",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123884,
+                    "slots": 14,
+                    "normal_bikes": 11,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "97388f4e4ea102a30345524bda465f4e",
+                "name": "Ontario & 23rd",
+                "latitude": 49.249722,
+                "longitude": -123.104991,
+                "timestamp": "2025-01-17T14:25:33.955182Z",
+                "free_bikes": 1,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0554",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123764,
+                    "slots": 12,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9763838317308a4766b83696986a157b",
+                "name": "Dunbar & Broadway",
+                "latitude": 49.264579,
+                "longitude": -123.18373,
+                "timestamp": "2025-01-17T14:25:33.953958Z",
+                "free_bikes": 17,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0415",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123911,
+                    "slots": 26,
+                    "normal_bikes": 14,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "97b25faf822b93fdbf72da1d594c0288",
+                "name": "Carrall & Hastings",
+                "latitude": 49.28117,
+                "longitude": -123.104419,
+                "timestamp": "2025-01-17T14:25:33.549780Z",
+                "free_bikes": 16,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0098",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123833,
+                    "slots": 18,
+                    "normal_bikes": 15,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "983e58671adcc67af94457d7887dbb15",
+                "name": "8th & Commercial",
+                "latitude": 49.263242,
+                "longitude": -123.070521,
+                "timestamp": "2025-01-17T14:25:33.617874Z",
+                "free_bikes": 11,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0242",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123684,
+                    "slots": 20,
+                    "normal_bikes": 10,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "988f8f74c4a12d1a30ddf2f7cd6318f8",
+                "name": "Charleson Park",
+                "latitude": 49.267628,
+                "longitude": -123.127698,
+                "timestamp": "2025-01-17T14:25:33.592544Z",
+                "free_bikes": 6,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0143",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123339,
+                    "slots": 14,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "99c81f71db35911c79a86a1c5edc5604",
+                "name": "Beach & Hornby",
+                "latitude": 49.275295,
+                "longitude": -123.132585,
+                "timestamp": "2025-01-17T14:25:33.547782Z",
+                "free_bikes": 21,
+                "empty_slots": 1,
+                "extra": {
+                    "uid": "0045",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123893,
+                    "slots": 22,
+                    "normal_bikes": 17,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9a48ca226f82f52d02707b054ebc7e9e",
+                "name": "Princess & Union",
+                "latitude": 49.277615,
+                "longitude": -123.091654,
+                "timestamp": "2025-01-17T14:25:33.616444Z",
+                "free_bikes": 11,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0215",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123840,
+                    "slots": 12,
+                    "normal_bikes": 9,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9a5478470b56379c31cf4e671584d5cc",
+                "name": "3rd & Quebec",
+                "latitude": 49.268216,
+                "longitude": -123.103168,
+                "timestamp": "2025-01-17T14:25:33.591687Z",
+                "free_bikes": 8,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0119",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123338,
+                    "slots": 20,
+                    "normal_bikes": 4,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9aa325529164ec68b4d96c4f1c4fc7c1",
+                "name": "Stanley Park - Second Beach South",
+                "latitude": 49.294318,
+                "longitude": -123.148808,
+                "timestamp": "2025-01-17T14:25:33.591089Z",
+                "free_bikes": 7,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0104",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123892,
+                    "slots": 18,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9bee3167f10c884044cea0d36afcd1ef",
+                "name": "6th & Carolina",
+                "latitude": 49.265213,
+                "longitude": -123.090785,
+                "timestamp": "2025-01-17T14:25:33.953064Z",
+                "free_bikes": 7,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0298",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123839,
+                    "slots": 16,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9c0de696170169c26100b598219df4e9",
+                "name": "UBC Bookstore",
+                "latitude": 49.265207,
+                "longitude": -123.250139,
+                "timestamp": "2025-01-17T14:25:33.956044Z",
+                "free_bikes": 5,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "2134",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123869,
+                    "slots": 12,
+                    "normal_bikes": 1,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9c1397c06e07bf74fc049f1a0872eea0",
+                "name": "Balaclava & Broadway",
+                "latitude": 49.264483,
+                "longitude": -123.173926,
+                "timestamp": "2025-01-17T14:25:33.954170Z",
+                "free_bikes": 14,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0444",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123666,
+                    "slots": 18,
+                    "normal_bikes": 13,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9d3123425823420514b8ad410074f02d",
+                "name": "Expo & Carrall",
+                "latitude": 49.278004,
+                "longitude": -123.105664,
+                "timestamp": "2025-01-17T14:25:33.548133Z",
+                "free_bikes": 10,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0054",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123859,
+                    "slots": 16,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9ec4163496363b31ab475cb851b57b21",
+                "name": "Beach & Seymour",
+                "latitude": 49.273568,
+                "longitude": -123.129935,
+                "timestamp": "2025-01-17T14:25:33.592278Z",
+                "free_bikes": 5,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0137",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123387,
+                    "slots": 18,
+                    "normal_bikes": 5,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9ee3bc9e836768e3e04e4f3328dae03b",
+                "name": "27th & Main",
+                "latitude": 49.247204,
+                "longitude": -123.101549,
+                "timestamp": "2025-01-17T14:25:33.955398Z",
+                "free_bikes": 4,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0565",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123808,
+                    "slots": 22,
+                    "normal_bikes": 2,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "9f63cebac9073eac3e90be2b9a91b02b",
+                "name": "Stanley Park - Second Beach North",
+                "latitude": 49.29534,
+                "longitude": -123.150433,
+                "timestamp": "2025-01-17T14:25:33.590970Z",
+                "free_bikes": 6,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0102",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123634,
+                    "slots": 16,
+                    "normal_bikes": 3,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "a21f40838346e300063bdda3c5c04105",
+                "name": "Keith & 6th",
+                "latitude": 49.265005,
+                "longitude": -123.079481,
+                "timestamp": "2025-01-17T14:25:33.617473Z",
+                "free_bikes": 15,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0236",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123696,
+                    "slots": 28,
+                    "normal_bikes": 15,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "a25947c94149b3aeb93f6e970d63fffc",
+                "name": "Jericho Beach",
+                "latitude": 49.271221,
+                "longitude": -123.191133,
+                "timestamp": "2025-01-17T14:25:33.953647Z",
+                "free_bikes": 14,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0400",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123801,
+                    "slots": 26,
+                    "normal_bikes": 13,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "a59924f0ff3fb481a7bd8a5e9c36858f",
+                "name": "Point Grey & Bayswater",
+                "latitude": 49.271044,
+                "longitude": -123.170661,
+                "timestamp": "2025-01-17T14:25:33.954223Z",
+                "free_bikes": 11,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0450",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123584,
+                    "slots": 16,
+                    "normal_bikes": 11,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "a6455af6b689bcbad07ae2c8a3419b50",
+                "name": "7th & Woodland",
+                "latitude": 49.264251,
+                "longitude": -123.073853,
+                "timestamp": "2025-01-17T14:25:33.951538Z",
+                "free_bikes": 4,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0249",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123802,
+                    "slots": 12,
+                    "normal_bikes": 4,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "a6aec7b8c25da4c02829cd7839b8933d",
+                "name": "Aquatic Centre",
+                "latitude": 49.27821,
+                "longitude": -123.136972,
+                "timestamp": "2025-01-17T14:25:33.549343Z",
+                "free_bikes": 27,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0083",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123677,
+                    "slots": 40,
+                    "normal_bikes": 26,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "a9f0b06d07f89b75e92c0cf686223aea",
+                "name": "Georgia & Thurlow",
+                "latitude": 49.285953,
+                "longitude": -123.124066,
+                "timestamp": "2025-01-17T14:25:33.591790Z",
+                "free_bikes": 0,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0123",
+                    "renting": false,
+                    "returning": false,
+                    "last_updated": 1736002436,
+                    "slots": 12,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "aa1cbf97abc3cd50515bc54633a9bb2a",
+                "name": "Cordova & Granville",
+                "latitude": 49.2856698,
+                "longitude": -123.1125432,
+                "timestamp": "2025-01-17T14:25:33.546880Z",
+                "free_bikes": 9,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0021",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123908,
+                    "slots": 18,
+                    "normal_bikes": 8,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "aa704bfba40286bd0661b64d1f75e778",
+                "name": "Vanier Park",
+                "latitude": 49.275717,
+                "longitude": -123.142564,
+                "timestamp": "2025-01-17T14:25:33.549152Z",
+                "free_bikes": 7,
+                "empty_slots": 19,
+                "extra": {
+                    "uid": "0077",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123831,
+                    "slots": 28,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "abfaf72456a4828a22f5bf60d3a80777",
+                "name": "Trafalgar & Broadway",
+                "latitude": 49.264326,
+                "longitude": -123.164725,
+                "timestamp": "2025-01-17T14:25:33.954384Z",
+                "free_bikes": 8,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0464",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123743,
+                    "slots": 16,
+                    "normal_bikes": 4,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ac3b8198f03754a0afb8b6ed6d220cdd",
+                "name": "Napier & Commercial",
+                "latitude": 49.274881,
+                "longitude": -123.069323,
+                "timestamp": "2025-01-17T14:25:33.617249Z",
+                "free_bikes": 6,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0231",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123369,
+                    "slots": 14,
+                    "normal_bikes": 3,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ace20c241ee38643c9060f290b215b9d",
+                "name": "7th & Laurel",
+                "latitude": 49.265071,
+                "longitude": -123.123864,
+                "timestamp": "2025-01-17T14:25:33.594730Z",
+                "free_bikes": 4,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0191",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123888,
+                    "slots": 14,
+                    "normal_bikes": 3,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ae69aeab748d02e5a7d89da28a1a8511",
+                "name": "Science World",
+                "latitude": 49.273691,
+                "longitude": -123.102232,
+                "timestamp": "2025-01-17T14:25:33.594836Z",
+                "free_bikes": 8,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0193",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123574,
+                    "slots": 16,
+                    "normal_bikes": 8,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "aed214941445e0345aa3254805a9e8b8",
+                "name": "Pender & Victoria",
+                "latitude": 49.280197,
+                "longitude": -123.065859,
+                "timestamp": "2025-01-17T14:25:33.952469Z",
+                "free_bikes": 1,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0272",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123425,
+                    "slots": 16,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "afacb2133f2462aba7748cc21b71c788",
+                "name": "Cypress & 16th",
+                "latitude": 49.25741,
+                "longitude": -123.148531,
+                "timestamp": "2025-01-17T14:25:33.591635Z",
+                "free_bikes": 1,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0115",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123605,
+                    "slots": 12,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b07d513f87897cff7319a0e59d7e567c",
+                "name": "Spyglass & Seawall",
+                "latitude": 49.270877,
+                "longitude": -123.115103,
+                "timestamp": "2025-01-17T14:25:33.546136Z",
+                "free_bikes": 6,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0009",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123704,
+                    "slots": 14,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b10d422b045805f1c350c47c983381e8",
+                "name": "Keefer & Hawks",
+                "latitude": 49.279235,
+                "longitude": -123.087528,
+                "timestamp": "2025-01-17T14:25:33.616985Z",
+                "free_bikes": 4,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0228",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123599,
+                    "slots": 16,
+                    "normal_bikes": 4,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b26f83e904f3a778466ebcd763b7316a",
+                "name": "29th & Cambie",
+                "latitude": 49.245135,
+                "longitude": -123.116098,
+                "timestamp": "2025-01-17T14:25:33.955001Z",
+                "free_bikes": 3,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0526",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123770,
+                    "slots": 20,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b2c6aaf2b4fa8937bfe3941c038683aa",
+                "name": "Victoria & 10th",
+                "latitude": 49.261188,
+                "longitude": -123.066009,
+                "timestamp": "2025-01-17T14:25:33.952579Z",
+                "free_bikes": 0,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0274",
+                    "renting": false,
+                    "returning": false,
+                    "last_updated": 0,
+                    "slots": 0,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b307709b305dd04328fbbf2c6db86419",
+                "name": "Commercial & Adanac",
+                "latitude": 49.277436,
+                "longitude": -123.070427,
+                "timestamp": "2025-01-17T14:25:33.616771Z",
+                "free_bikes": 3,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0223",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123670,
+                    "slots": 16,
+                    "normal_bikes": 0,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b30ed0719dd281867a4d39779c78b58a",
+                "name": "Columbia & 14th",
+                "latitude": 49.258902,
+                "longitude": -123.109596,
+                "timestamp": "2025-01-17T14:25:33.594466Z",
+                "free_bikes": 5,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0180",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123865,
+                    "slots": 14,
+                    "normal_bikes": 3,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b3bb9f58d3530d33a1a09b6be9e973e0",
+                "name": "Dunsmuir & Richards",
+                "latitude": 49.282214,
+                "longitude": -123.114101,
+                "timestamp": "2025-01-17T14:25:33.546283Z",
+                "free_bikes": 0,
+                "empty_slots": 22,
+                "extra": {
+                    "uid": "0012",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123558,
+                    "slots": 22,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b428c0e64d9b9fdb3bf8e85c95ffdf6b",
+                "name": "Campbell & Hastings",
+                "latitude": 49.280852,
+                "longitude": -123.084746,
+                "timestamp": "2025-01-17T14:25:33.616932Z",
+                "free_bikes": 5,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0227",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123910,
+                    "slots": 14,
+                    "normal_bikes": 3,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b530d04d393d71cffb8b8b07f4a82380",
+                "name": "Franklin & Nanaimo",
+                "latitude": 49.282087,
+                "longitude": -123.056909,
+                "timestamp": "2025-01-17T14:25:33.955672Z",
+                "free_bikes": 6,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0642",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123477,
+                    "slots": 20,
+                    "normal_bikes": 3,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b562f08327af465e4531e20226789489",
+                "name": "Charles & Commercial",
+                "latitude": 49.273103,
+                "longitude": -123.069892,
+                "timestamp": "2025-01-17T14:25:33.617418Z",
+                "free_bikes": 12,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0235",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123429,
+                    "slots": 22,
+                    "normal_bikes": 9,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b7683a86874e6300fd89f4cc0b075f57",
+                "name": "Beatty & Nelson",
+                "latitude": 49.275679,
+                "longitude": -123.116963,
+                "timestamp": "2025-01-17T14:25:33.547094Z",
+                "free_bikes": 12,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0027",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123618,
+                    "slots": 14,
+                    "normal_bikes": 11,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b7dd37a7dd668d6d10024b7f18acc438",
+                "name": "Trimble & 8th",
+                "latitude": 49.2658,
+                "longitude": -123.20596,
+                "timestamp": "2025-01-17T14:25:33.955724Z",
+                "free_bikes": 14,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0715",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123695,
+                    "slots": 20,
+                    "normal_bikes": 9,
+                    "ebikes": 5,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b9ab6ce009eda6006ade1d7568d9db9c",
+                "name": "David Lam Park",
+                "latitude": 49.270905,
+                "longitude": -123.126006,
+                "timestamp": "2025-01-17T14:25:33.592224Z",
+                "free_bikes": 6,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0136",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123692,
+                    "slots": 18,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b9baf685b7053de899bf3467f61c2781",
+                "name": "Burrard & 4th",
+                "latitude": 49.267859,
+                "longitude": -123.145782,
+                "timestamp": "2025-01-17T14:25:33.592384Z",
+                "free_bikes": 13,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0139",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123801,
+                    "slots": 16,
+                    "normal_bikes": 12,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "b9fd847d53fe45658fee4c46e7f562b8",
+                "name": "Cypress & Cornwall",
+                "latitude": 49.272827,
+                "longitude": -123.147744,
+                "timestamp": "2025-01-17T14:25:33.548504Z",
+                "free_bikes": 20,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0065",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123799,
+                    "slots": 22,
+                    "normal_bikes": 19,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "bb0847559ce71c93d8215c0997ea2811",
+                "name": "Keefer & Princess",
+                "latitude": 49.279369,
+                "longitude": -123.091241,
+                "timestamp": "2025-01-17T14:25:33.617039Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0229",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123711,
+                    "slots": 14,
+                    "normal_bikes": 5,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "be14efdc86dedd6a8cd338e78ab4e7c7",
+                "name": "Bidwell & Burnaby",
+                "latitude": 49.28526,
+                "longitude": -123.141809,
+                "timestamp": "2025-01-17T14:25:33.548359Z",
+                "free_bikes": 0,
+                "empty_slots": 0,
+                "extra": {
+                    "uid": "0060",
+                    "renting": false,
+                    "returning": false,
+                    "last_updated": 1733768082,
+                    "slots": 0,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "bede4b24dae115d4cd43d2e6cc9812cb",
+                "name": "11th & Kingsway",
+                "latitude": 49.261122,
+                "longitude": -123.097571,
+                "timestamp": "2025-01-17T14:25:33.594413Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0179",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123732,
+                    "slots": 16,
+                    "normal_bikes": 2,
+                    "ebikes": 5,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "bf8408067b0e0c963f3ff526977bcef3",
+                "name": "Pender & Burrard",
+                "latitude": 49.287097,
+                "longitude": -123.118551,
+                "timestamp": "2025-01-17T14:25:33.546691Z",
+                "free_bikes": 14,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0016",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123788,
+                    "slots": 26,
+                    "normal_bikes": 13,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "bf96df77771ef0ed710d8e0e67917f45",
+                "name": "Columbia & 1st",
+                "latitude": 49.269969,
+                "longitude": -123.109623,
+                "timestamp": "2025-01-17T14:25:33.594194Z",
+                "free_bikes": 7,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0173",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123778,
+                    "slots": 24,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c2a9c5d0e4578b928554c86f3d2c1162",
+                "name": "Melville & Bute",
+                "latitude": 49.287782,
+                "longitude": -123.12395,
+                "timestamp": "2025-01-17T14:25:33.594676Z",
+                "free_bikes": 7,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0190",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123389,
+                    "slots": 14,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c2be5403b1c101e8032cf6696457200e",
+                "name": "Anderson & 2nd",
+                "latitude": 49.269361,
+                "longitude": -123.13782,
+                "timestamp": "2025-01-17T14:25:33.548550Z",
+                "free_bikes": 10,
+                "empty_slots": 18,
+                "extra": {
+                    "uid": "0066",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123536,
+                    "slots": 28,
+                    "normal_bikes": 6,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c2f4e05c01ea0d27934ac7dbc50cbd0c",
+                "name": "5th & Main",
+                "latitude": 49.266456,
+                "longitude": -123.100324,
+                "timestamp": "2025-01-17T14:25:33.594995Z",
+                "free_bikes": 4,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0198",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123808,
+                    "slots": 20,
+                    "normal_bikes": 3,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c448b73d92f7f8e1daafb3b9c5fbe6a6",
+                "name": "Alexander & Dunlevy",
+                "latitude": 49.284062,
+                "longitude": -123.095097,
+                "timestamp": "2025-01-17T14:25:33.593805Z",
+                "free_bikes": 9,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0161",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 0,
+                    "slots": 14,
+                    "normal_bikes": 7,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c47a1f62ea461ce1c9f3e2478c657df6",
+                "name": "13th & St George",
+                "latitude": 49.258817,
+                "longitude": -123.092797,
+                "timestamp": "2025-01-17T14:25:33.952127Z",
+                "free_bikes": 6,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0258",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123712,
+                    "slots": 16,
+                    "normal_bikes": 6,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c52e51e3288a00993bdf892fdc2c2c2c",
+                "name": "Commercial & Pandora",
+                "latitude": 49.283236,
+                "longitude": -123.070443,
+                "timestamp": "2025-01-17T14:25:33.952902Z",
+                "free_bikes": 10,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0285",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123680,
+                    "slots": 16,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c64ee19c62a363019ddbaedf71df2882",
+                "name": "Grandview & Commercial",
+                "latitude": 49.263746,
+                "longitude": -123.069892,
+                "timestamp": "2025-01-17T14:25:33.951895Z",
+                "free_bikes": 15,
+                "empty_slots": 1,
+                "extra": {
+                    "uid": "0254",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123865,
+                    "slots": 16,
+                    "normal_bikes": 12,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c7b5bec0b2f4ab9a2d3f9d837725620c",
+                "name": "Expo & Smithe",
+                "latitude": 49.276115,
+                "longitude": -123.114496,
+                "timestamp": "2025-01-17T14:25:33.548457Z",
+                "free_bikes": 12,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0064",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123853,
+                    "slots": 14,
+                    "normal_bikes": 12,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c81f75a80312c51ceaef1304beac1990",
+                "name": "Cypress & 14th",
+                "latitude": 49.25919,
+                "longitude": -123.148268,
+                "timestamp": "2025-01-17T14:25:33.591581Z",
+                "free_bikes": 3,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0114",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123590,
+                    "slots": 12,
+                    "normal_bikes": 2,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c90ac84be9adfa8c4bbd0c1ce789ec3a",
+                "name": "Brock Commons",
+                "latitude": 49.269172,
+                "longitude": -123.25279,
+                "timestamp": "2025-01-17T14:25:33.955938Z",
+                "free_bikes": 18,
+                "empty_slots": 1,
+                "extra": {
+                    "uid": "2131",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123729,
+                    "slots": 20,
+                    "normal_bikes": 7,
+                    "ebikes": 11,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "c924f6a41b130fad49cfae47271314bc",
+                "name": "Beach & Broughton",
+                "latitude": 49.281301,
+                "longitude": -123.139108,
+                "timestamp": "2025-01-17T14:25:33.549383Z",
+                "free_bikes": 18,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0084",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123590,
+                    "slots": 22,
+                    "normal_bikes": 13,
+                    "ebikes": 5,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "cadc004f0903ef45e898032143c0832f",
+                "name": "Arbutus Greenway & 14th",
+                "latitude": 49.258924,
+                "longitude": -123.152591,
+                "timestamp": "2025-01-17T14:25:33.592807Z",
+                "free_bikes": 3,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0152",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123888,
+                    "slots": 20,
+                    "normal_bikes": 0,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "cb6fddfdac7d350d25be475c7ab9e05a",
+                "name": "Alexander & Main",
+                "latitude": 49.284157,
+                "longitude": -123.099917,
+                "timestamp": "2025-01-17T14:25:33.592754Z",
+                "free_bikes": 10,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0150",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123789,
+                    "slots": 20,
+                    "normal_bikes": 8,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "cc2084e365f6f230fe26bae0b6867775",
+                "name": "Hornby & Drake",
+                "latitude": 49.277178,
+                "longitude": -123.13,
+                "timestamp": "2025-01-17T14:25:33.594889Z",
+                "free_bikes": 2,
+                "empty_slots": 20,
+                "extra": {
+                    "uid": "0196",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123890,
+                    "slots": 24,
+                    "normal_bikes": 2,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "cc25ae4f093b33ba0afd1dbc0dd20324",
+                "name": "Highbury & 8th",
+                "latitude": 49.265442,
+                "longitude": -123.187738,
+                "timestamp": "2025-01-17T14:25:33.953754Z",
+                "free_bikes": 6,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0403",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123483,
+                    "slots": 20,
+                    "normal_bikes": 5,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "cde61c70e5556ee2fe3ceb9d958b6482",
+                "name": "Pharmaceutical Sciences",
+                "latitude": 49.26262,
+                "longitude": -123.2431,
+                "timestamp": "2025-01-17T14:25:33.983518Z",
+                "free_bikes": 2,
+                "empty_slots": 21,
+                "extra": {
+                    "uid": "2156",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123841,
+                    "slots": 24,
+                    "normal_bikes": 1,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ce5dccf5a0f190bb4567a2fd93e7971e",
+                "name": "Haro & Denman",
+                "latitude": 49.290587,
+                "longitude": -123.13625,
+                "timestamp": "2025-01-17T14:25:33.591740Z",
+                "free_bikes": 15,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0122",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123523,
+                    "slots": 20,
+                    "normal_bikes": 15,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d02e2eaafda91425eddd24d8acd328ab",
+                "name": "Windsor & 14th",
+                "latitude": 49.257985,
+                "longitude": -123.083366,
+                "timestamp": "2025-01-17T14:25:33.952742Z",
+                "free_bikes": 8,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0281",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123519,
+                    "slots": 14,
+                    "normal_bikes": 7,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d0782213f003ce9eb276fbceff44f1f4",
+                "name": "Prince Edward & 16th",
+                "latitude": 49.256694,
+                "longitude": -123.096579,
+                "timestamp": "2025-01-17T14:25:33.952014Z",
+                "free_bikes": 5,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0256",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123474,
+                    "slots": 14,
+                    "normal_bikes": 4,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d085c6749a32517e1fb0d070e4128402",
+                "name": "Cardero & Davie",
+                "latitude": 49.285512,
+                "longitude": -123.1384,
+                "timestamp": "2025-01-17T14:25:33.547581Z",
+                "free_bikes": 13,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0040",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123696,
+                    "slots": 18,
+                    "normal_bikes": 11,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d1c9556d92f329703229fb3e33899a3b",
+                "name": "Stamps Landing",
+                "latitude": 49.26893,
+                "longitude": -123.11813,
+                "timestamp": "2025-01-17T14:25:33.546186Z",
+                "free_bikes": 11,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0010",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123778,
+                    "slots": 14,
+                    "normal_bikes": 10,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d2244f1a81d317c76cabd65e81250835",
+                "name": "Marinaside & Davie",
+                "latitude": 49.273471,
+                "longitude": -123.118016,
+                "timestamp": "2025-01-17T14:25:33.546737Z",
+                "free_bikes": 13,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0017",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123741,
+                    "slots": 22,
+                    "normal_bikes": 11,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d3aaff4414a8c3fd5480c470f77ff68a",
+                "name": "Adanac & McLean",
+                "latitude": 49.277665,
+                "longitude": -123.073653,
+                "timestamp": "2025-01-17T14:25:33.616716Z",
+                "free_bikes": 15,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0222",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123805,
+                    "slots": 22,
+                    "normal_bikes": 14,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d4afc7056df9fad360ed00e59cd4368e",
+                "name": "Bute & Davie",
+                "latitude": 49.282055,
+                "longitude": -123.133045,
+                "timestamp": "2025-01-17T14:25:33.594572Z",
+                "free_bikes": 7,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0187",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123843,
+                    "slots": 20,
+                    "normal_bikes": 5,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d67640af1b3b3b3ce47169dbc9182470",
+                "name": "Victoria & 4th",
+                "latitude": 49.266725,
+                "longitude": -123.065925,
+                "timestamp": "2025-01-17T14:25:33.952525Z",
+                "free_bikes": 6,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0273",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123743,
+                    "slots": 16,
+                    "normal_bikes": 5,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d8c4fe5e09b6f010fbaa85cc7302d66b",
+                "name": "Heather & 29th",
+                "latitude": 49.245535,
+                "longitude": -123.120496,
+                "timestamp": "2025-01-17T14:25:33.954806Z",
+                "free_bikes": 7,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0516",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123342,
+                    "slots": 22,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "d91964be5355206abc053e5bb28f927f",
+                "name": "McNicoll & Arbutus",
+                "latitude": 49.276292,
+                "longitude": -123.150592,
+                "timestamp": "2025-01-17T14:25:33.592966Z",
+                "free_bikes": 14,
+                "empty_slots": 16,
+                "extra": {
+                    "uid": "0155",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123687,
+                    "slots": 30,
+                    "normal_bikes": 14,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "da8b6e94f90ad41a3f8de10596992372",
+                "name": "Jervis & Robson",
+                "latitude": 49.28691,
+                "longitude": -123.128818,
+                "timestamp": "2025-01-17T14:25:33.953278Z",
+                "free_bikes": 3,
+                "empty_slots": 17,
+                "extra": {
+                    "uid": "0310",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123717,
+                    "slots": 20,
+                    "normal_bikes": 1,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "db1e56a71a3279f51301d732ee5a055b",
+                "name": "IK Barber Learning Centre",
+                "latitude": 49.267561,
+                "longitude": -123.252261,
+                "timestamp": "2025-01-17T14:25:33.955992Z",
+                "free_bikes": 7,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "2132",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123864,
+                    "slots": 20,
+                    "normal_bikes": 4,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "db51c556fe50ec1deefbc9697c70cb51",
+                "name": "Granville Island",
+                "latitude": 49.27029,
+                "longitude": -123.135025,
+                "timestamp": "2025-01-17T14:25:33.594624Z",
+                "free_bikes": 23,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0189",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123691,
+                    "slots": 32,
+                    "normal_bikes": 20,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "dcf3d5c9f1b3a46f0ef2eb2247931f89",
+                "name": "6th & Prince Edward",
+                "latitude": 49.265242,
+                "longitude": -123.095577,
+                "timestamp": "2025-01-17T14:25:33.953011Z",
+                "free_bikes": 7,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0297",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123796,
+                    "slots": 16,
+                    "normal_bikes": 6,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "df5ab349a7a85d4b10da4cc3ec65c607",
+                "name": "Broughton & Davie",
+                "latitude": 49.283749,
+                "longitude": -123.136133,
+                "timestamp": "2025-01-17T14:25:33.549456Z",
+                "free_bikes": 7,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0087",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123786,
+                    "slots": 22,
+                    "normal_bikes": 1,
+                    "ebikes": 6,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e02dd224b0177c65418bcb3f72d2f77d",
+                "name": "Adanac & Lakewood",
+                "latitude": 49.27751,
+                "longitude": -123.061429,
+                "timestamp": "2025-01-17T14:25:33.955507Z",
+                "free_bikes": 8,
+                "empty_slots": 9,
+                "extra": {
+                    "uid": "0617",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123767,
+                    "slots": 20,
+                    "normal_bikes": 4,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e0318460138ffbf4692005d5b5a9f900",
+                "name": "Cypress & 10th",
+                "latitude": 49.262944,
+                "longitude": -123.148109,
+                "timestamp": "2025-01-17T14:25:33.548591Z",
+                "free_bikes": 3,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0068",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123902,
+                    "slots": 14,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e0f30136c6ec6330f93d6c2c8463a0f4",
+                "name": "Thunderbird Parkade",
+                "latitude": 49.261655,
+                "longitude": -123.241924,
+                "timestamp": "2025-01-17T14:25:33.983610Z",
+                "free_bikes": 2,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "2157",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123596,
+                    "slots": 18,
+                    "normal_bikes": 0,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e12234b6f1299d178f34bffaca92f043",
+                "name": "Burrard Station (Melville & Dunsmuir)",
+                "latitude": 49.285871,
+                "longitude": -123.12105,
+                "timestamp": "2025-01-17T14:25:33.545777Z",
+                "free_bikes": 16,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0002",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123863,
+                    "slots": 28,
+                    "normal_bikes": 15,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e1432b72df561a1df34290679ec9c773",
+                "name": "22nd & Cambie",
+                "latitude": 49.251358,
+                "longitude": -123.115637,
+                "timestamp": "2025-01-17T14:25:33.955126Z",
+                "free_bikes": 2,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0532",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123845,
+                    "slots": 14,
+                    "normal_bikes": 2,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e1ff428dadc7c32141b9d89a7b56728a",
+                "name": "Glen & Broadway",
+                "latitude": 49.262242,
+                "longitude": -123.081459,
+                "timestamp": "2025-01-17T14:25:33.943139Z",
+                "free_bikes": 12,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0246",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123845,
+                    "slots": 18,
+                    "normal_bikes": 9,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e3d32ad772a5898c3b96c4d23d2cd542",
+                "name": "Stanley Park - Totem Poles",
+                "latitude": 49.298657,
+                "longitude": -123.121176,
+                "timestamp": "2025-01-17T14:25:33.591148Z",
+                "free_bikes": 11,
+                "empty_slots": 8,
+                "extra": {
+                    "uid": "0105",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123795,
+                    "slots": 20,
+                    "normal_bikes": 11,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e75e83499d3fa2e174dc2a8ffd238119",
+                "name": "Davie & Beach",
+                "latitude": 49.287528,
+                "longitude": -123.142139,
+                "timestamp": "2025-01-17T14:25:33.547146Z",
+                "free_bikes": 20,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0028",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123650,
+                    "slots": 30,
+                    "normal_bikes": 18,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e7bf01431a6982f032996ad50a9e5bd7",
+                "name": "Pender & Gore",
+                "latitude": 49.280284,
+                "longitude": -123.097052,
+                "timestamp": "2025-01-17T14:25:33.616389Z",
+                "free_bikes": 3,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0213",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123901,
+                    "slots": 14,
+                    "normal_bikes": 3,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e9b37f2d9b7b2e2e3ade73f13acb69b2",
+                "name": "Richards & Davie",
+                "latitude": 49.275683,
+                "longitude": -123.124388,
+                "timestamp": "2025-01-17T14:25:33.549305Z",
+                "free_bikes": 6,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0082",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123904,
+                    "slots": 14,
+                    "normal_bikes": 2,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "e9c4bd1fffbb1e5b058b8ea15f7307f6",
+                "name": "Pender & Commercial",
+                "latitude": 49.280332,
+                "longitude": -123.070068,
+                "timestamp": "2025-01-17T14:25:33.616824Z",
+                "free_bikes": 5,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0224",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123666,
+                    "slots": 16,
+                    "normal_bikes": 5,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ea9485fcdce0611243474d000e4ad248",
+                "name": "18th & Cambie",
+                "latitude": 49.254818,
+                "longitude": -123.114785,
+                "timestamp": "2025-01-17T14:25:33.955066Z",
+                "free_bikes": 3,
+                "empty_slots": 21,
+                "extra": {
+                    "uid": "0531",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123605,
+                    "slots": 24,
+                    "normal_bikes": 1,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ebc551adb0fc1a684f4080e4954a9ba4",
+                "name": "2nd & Commercial",
+                "latitude": 49.268616,
+                "longitude": -123.069908,
+                "timestamp": "2025-01-17T14:25:33.617704Z",
+                "free_bikes": 2,
+                "empty_slots": 20,
+                "extra": {
+                    "uid": "0240",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123799,
+                    "slots": 22,
+                    "normal_bikes": 1,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "ee620d77724c8993b0d366e7ec655b64",
+                "name": "Wesbrook Village - Berton & Shrum",
+                "latitude": 49.25478,
+                "longitude": -123.23621,
+                "timestamp": "2025-01-17T14:25:33.983682Z",
+                "free_bikes": 22,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "2252",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123803,
+                    "slots": 28,
+                    "normal_bikes": 18,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "efa947b901a2cf85b58320b3ad26a2fe",
+                "name": "Chilco & Robson",
+                "latitude": 49.293257,
+                "longitude": -123.138563,
+                "timestamp": "2025-01-17T14:25:33.549696Z",
+                "free_bikes": 10,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0093",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123726,
+                    "slots": 20,
+                    "normal_bikes": 10,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f1ca711137cde59e824167a4274df888",
+                "name": "Keefer & Columbia",
+                "latitude": 49.279342,
+                "longitude": -123.101822,
+                "timestamp": "2025-01-17T14:25:33.548198Z",
+                "free_bikes": 11,
+                "empty_slots": 3,
+                "extra": {
+                    "uid": "0055",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123826,
+                    "slots": 14,
+                    "normal_bikes": 10,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f3708906ec71348f5a42579fede36a0d",
+                "name": "Rogers Tower",
+                "latitude": 49.288682,
+                "longitude": -123.11818,
+                "timestamp": "2025-01-17T14:25:33.595179Z",
+                "free_bikes": 5,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0201",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123655,
+                    "slots": 18,
+                    "normal_bikes": 5,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f387ec226c432c5c054e3d3616d90501",
+                "name": "Woodland & Graveley",
+                "latitude": 49.270684,
+                "longitude": -123.073562,
+                "timestamp": "2025-01-17T14:25:33.951745Z",
+                "free_bikes": 0,
+                "empty_slots": 12,
+                "extra": {
+                    "uid": "0252",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123903,
+                    "slots": 12,
+                    "normal_bikes": 0,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f38bac9712f3beee2149ba2a97048878",
+                "name": "Cardero & Bayshore",
+                "latitude": 49.291597,
+                "longitude": -123.129158,
+                "timestamp": "2025-01-17T14:25:33.595099Z",
+                "free_bikes": 7,
+                "empty_slots": 13,
+                "extra": {
+                    "uid": "0200",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123807,
+                    "slots": 20,
+                    "normal_bikes": 7,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f5e8fa1fc4252bda2f93dd27ed2d603f",
+                "name": "Nelson & Denman",
+                "latitude": 49.2890705989865,
+                "longitude": -123.138407369468,
+                "timestamp": "2025-01-17T14:25:33.953382Z",
+                "free_bikes": 12,
+                "empty_slots": 5,
+                "extra": {
+                    "uid": "0313",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123775,
+                    "slots": 18,
+                    "normal_bikes": 7,
+                    "ebikes": 5,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f62bc2bfe9a0a563d5b6745ce6d962ba",
+                "name": "8th & Fraser",
+                "latitude": 49.263382,
+                "longitude": -123.088837,
+                "timestamp": "2025-01-17T14:25:33.952238Z",
+                "free_bikes": 1,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0261",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123809,
+                    "slots": 16,
+                    "normal_bikes": 1,
+                    "ebikes": 0,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f90ed7ad754ec04b7852941a480a4c77",
+                "name": "Balaclava & 6th",
+                "latitude": 49.266924,
+                "longitude": -123.173849,
+                "timestamp": "2025-01-17T14:25:33.954118Z",
+                "free_bikes": 6,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0443",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123509,
+                    "slots": 16,
+                    "normal_bikes": 4,
+                    "ebikes": 2,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "f97d5bf41f35aa181288429fb52e3488",
+                "name": "Cambie & Water",
+                "latitude": 49.284605,
+                "longitude": -123.108662,
+                "timestamp": "2025-01-17T14:25:33.548016Z",
+                "free_bikes": 17,
+                "empty_slots": 15,
+                "extra": {
+                    "uid": "0052",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123839,
+                    "slots": 32,
+                    "normal_bikes": 14,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fad9ebcf614dd1a72593a34072ff76f8",
+                "name": "Helmcken & Burrard",
+                "latitude": 49.279938,
+                "longitude": -123.127478,
+                "timestamp": "2025-01-17T14:25:33.547536Z",
+                "free_bikes": 1,
+                "empty_slots": 14,
+                "extra": {
+                    "uid": "0039",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123615,
+                    "slots": 15,
+                    "normal_bikes": 0,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fbb1d30d7f30b049873f5be5688563d4",
+                "name": "Hornby & Pender",
+                "latitude": 49.28602,
+                "longitude": -123.116624,
+                "timestamp": "2025-01-17T14:25:33.546939Z",
+                "free_bikes": 9,
+                "empty_slots": 11,
+                "extra": {
+                    "uid": "0024",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123823,
+                    "slots": 22,
+                    "normal_bikes": 5,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fbb4c06b719596c21f91fd51ef6d4710",
+                "name": "7th & Heather",
+                "latitude": 49.265089,
+                "longitude": -123.119425,
+                "timestamp": "2025-01-17T14:25:33.549267Z",
+                "free_bikes": 10,
+                "empty_slots": 7,
+                "extra": {
+                    "uid": "0081",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123598,
+                    "slots": 18,
+                    "normal_bikes": 9,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fe0c57d04d6e682d284d501446095fc9",
+                "name": "Union & Dunlevy",
+                "latitude": 49.277595,
+                "longitude": -123.09583,
+                "timestamp": "2025-01-17T14:25:33.616334Z",
+                "free_bikes": 14,
+                "empty_slots": 2,
+                "extra": {
+                    "uid": "0212",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123804,
+                    "slots": 16,
+                    "normal_bikes": 10,
+                    "ebikes": 4,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fedff7a263c182df94bda7307059cc52",
+                "name": "Richards & Helmcken",
+                "latitude": 49.277141,
+                "longitude": -123.122589,
+                "timestamp": "2025-01-17T14:25:33.592331Z",
+                "free_bikes": 7,
+                "empty_slots": 10,
+                "extra": {
+                    "uid": "0138",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123684,
+                    "slots": 18,
+                    "normal_bikes": 4,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fef69fb400210d861107a61db954d037",
+                "name": "Keefer & Abbott",
+                "latitude": 49.279821,
+                "longitude": -123.10802,
+                "timestamp": "2025-01-17T14:25:33.548061Z",
+                "free_bikes": 21,
+                "empty_slots": 4,
+                "extra": {
+                    "uid": "0053",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123787,
+                    "slots": 28,
+                    "normal_bikes": 18,
+                    "ebikes": 3,
+                    "has_ebikes": true
+                }
+            },
+            {
+                "id": "fffd87607aaae16fbb1f71615cbe7d17",
+                "name": "8th & Prince Edward",
+                "latitude": 49.263518,
+                "longitude": -123.09568,
+                "timestamp": "2025-01-17T14:25:33.952294Z",
+                "free_bikes": 9,
+                "empty_slots": 6,
+                "extra": {
+                    "uid": "0262",
+                    "renting": true,
+                    "returning": true,
+                    "last_updated": 1737123479,
+                    "slots": 18,
+                    "normal_bikes": 8,
+                    "ebikes": 1,
+                    "has_ebikes": true
+                }
+            }
+        ]
+    }
+}
