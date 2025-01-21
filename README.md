@@ -12,7 +12,9 @@ All data from Vancouver, BC, Canada was collected through the City Bikes API at 
     - data concerning whether a station has e-bikes was considered but all stations in Vancouver had ebikes, so it was excluded and not helpful.
 - Pandas dataframe was created with required info
 
-### (your step 2)
+### Connect to FourSquare API
+For each station retrieved from City Bikes, we look up related places from the FourSquare places API and append these to the dataframe. Current categories for lookup are ______________
+
 
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)

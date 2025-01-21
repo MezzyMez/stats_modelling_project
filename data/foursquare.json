@@ -1,165 +1,150 @@
 [
     {
-        "fsq_id": "4b5b84c0f964a5202f0429e3",
-        "categories": [
-            {
-                "id": 10047,
-                "name": "Public Art",
-                "short_name": "Public Art",
-                "plural_name": "Public Art",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
-                    "suffix": ".png"
-                }
-            },
-            {
-                "id": 13065,
-                "name": "Restaurant",
-                "short_name": "Restaurant",
-                "plural_name": "Restaurants",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-                    "suffix": ".png"
-                }
-            },
-            {
-                "id": 16016,
-                "name": "Fountain",
-                "short_name": "Fountain",
-                "plural_name": "Fountains",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
-                    "suffix": ".png"
-                }
-            },
-            {
-                "id": 19014,
-                "name": "Hotel",
-                "short_name": "Hotel",
-                "plural_name": "Hotels",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
-                    "suffix": ".png"
-                }
-            }
-        ],
-        "chains": [],
-        "closed_bucket": "LikelyOpen",
-        "distance": 869,
-        "geocodes": {
-            "main": {
-                "latitude": 49.284303,
-                "longitude": -123.143552
-            }
-        },
-        "link": "/v3/places/4b5b84c0f964a5202f0429e3",
-        "location": {
-            "address": "1700 Beach Ave",
-            "country": "CA",
-            "cross_street": "",
-            "formatted_address": "1700 Beach Ave, Vancouver BC",
-            "locality": "Vancouver",
-            "region": "BC"
-        },
-        "name": "The Inukshuk",
-        "related_places": {},
-        "timezone": "America/Vancouver"
+        "fsq_id": "4aabe78ff964a520d05a20e3",
+        "name": "Aria Market",
+        "popularity": 0.993445961824686,
+        "rating": 8.4,
+        "venue_reality_bucket": "High"
     },
     {
-        "fsq_id": "5bf88302db1d81002c1c3c6c",
-        "categories": [
-            {
-                "id": 10047,
-                "name": "Public Art",
-                "short_name": "Public Art",
-                "plural_name": "Public Art",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
-                    "suffix": ".png"
-                }
-            }
-        ],
-        "chains": [],
-        "closed_bucket": "LikelyOpen",
-        "distance": 938,
-        "geocodes": {
-            "drop_off": {
-                "latitude": 49.290695,
-                "longitude": -123.128065
-            },
-            "main": {
-                "latitude": 49.29051,
-                "longitude": -123.12794
-            },
-            "roof": {
-                "latitude": 49.29051,
-                "longitude": -123.12794
-            }
-        },
-        "link": "/v3/places/5bf88302db1d81002c1c3c6c",
-        "location": {
-            "address": "590 Nicola St",
-            "country": "CA",
-            "cross_street": "West Hastings",
-            "formatted_address": "590 Nicola St (West Hastings), Vancouver BC V6G 3J8",
-            "locality": "Vancouver",
-            "postcode": "V6G 3J8",
-            "region": "BC"
-        },
-        "name": "Scopes of Site",
-        "related_places": {},
-        "timezone": "America/Vancouver"
+        "fsq_id": "4e8e4f786c255231f53fdf1e",
+        "name": "Ayoub's Dried Fruits & Nuts",
+        "popularity": 0.9218084967490926,
+        "rating": 7.9,
+        "venue_reality_bucket": "VeryHigh"
     },
     {
-        "fsq_id": "4ded40b4fa76b21ed97ff4db",
-        "categories": [
-            {
-                "id": 10047,
-                "name": "Public Art",
-                "short_name": "Public Art",
-                "plural_name": "Public Art",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
-                    "suffix": ".png"
-                }
-            },
-            {
-                "id": 16026,
-                "name": "Monument",
-                "short_name": "Monument",
-                "plural_name": "Monuments",
-                "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
-                    "suffix": ".png"
-                }
-            }
-        ],
-        "chains": [],
-        "closed_bucket": "VeryLikelyOpen",
-        "distance": 957,
-        "geocodes": {
-            "main": {
-                "latitude": 49.300282,
-                "longitude": -123.137619
-            },
-            "roof": {
-                "latitude": 49.300282,
-                "longitude": -123.137619
-            }
-        },
-        "link": "/v3/places/4ded40b4fa76b21ed97ff4db",
-        "location": {
-            "address": "900 Stanley Park Dr",
-            "address_extended": "# 502",
-            "country": "CA",
-            "cross_street": "",
-            "formatted_address": "900 Stanley Park Dr, Vancouver BC V6G 3E2",
-            "locality": "Vancouver",
-            "postcode": "V6G 3E2",
-            "region": "BC"
-        },
-        "name": "Lord Stanley of Preston statue",
-        "related_places": {},
-        "timezone": "America/Vancouver"
+        "fsq_id": "4b54a00bf964a52071c327e3",
+        "name": "Brandon & Joanny's NOFRILLS Vancouver",
+        "popularity": 0.99733660600047,
+        "rating": 7.6,
+        "venue_reality_bucket": "VeryHigh"
+    },
+    {
+        "fsq_id": "4ada9984f964a520ba2321e3",
+        "name": "BC Liquor Store",
+        "popularity": 0.9497480220382798,
+        "rating": 6.8,
+        "venue_reality_bucket": "VeryHigh"
+    },
+    {
+        "fsq_id": "4aa814faf964a5202c4f20e3",
+        "name": "Safeway Canada",
+        "popularity": 0.997636890618064,
+        "rating": 7.0,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "640d013fc64c7107df9d7497",
+        "name": "Safeway Canada",
+        "popularity": 0.990678121001645,
+        "rating": 6.4,
+        "venue_reality_bucket": "Medium"
+    },
+    {
+        "fsq_id": "4ac11ea5f964a520ec9520e3",
+        "name": "Robson Public Market",
+        "popularity": 0.9738621824163772,
+        "rating": 6.4,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4c3a4b3e2c8020a1bf308e00",
+        "name": "Euro Food Plus",
+        "popularity": 0.8718698592579053,
+        "price": 1,
+        "rating": 6.2,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4aaa9b2af964a520935620e3",
+        "name": "Safeway Pharmacy Robson",
+        "popularity": 0.9867483092670444,
+        "rating": 6.1,
+        "venue_reality_bucket": "VeryHigh"
+    },
+    {
+        "fsq_id": "5d6da727306ad6000804f6d1",
+        "name": "Denman Market",
+        "popularity": 0.8935556309893725,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "5768c63a498e0d6a6bf970db",
+        "name": "Kin's Farm Market",
+        "popularity": 0.8956184557537143,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4d7af89a519b236a4f58fec3",
+        "name": "Quest Foods",
+        "popularity": 0.4705590516228425,
+        "venue_reality_bucket": "Medium"
+    },
+    {
+        "fsq_id": "531a4cd011d271ffb8078841",
+        "name": "Shell Gas",
+        "popularity": 0.8550278089667598,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4cc26174306e224bd53c906c",
+        "name": "Windsor Market",
+        "popularity": 0.8746768676397629,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4c103257f1b6a59324927b27",
+        "name": "Golden Choice Market",
+        "popularity": 0.09895030942371465,
+        "venue_reality_bucket": "VeryHigh"
+    },
+    {
+        "fsq_id": "4ac03251f964a520139420e3",
+        "name": "Homa Market",
+        "popularity": 0.660038645324699,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4de6a72d1838d320575fe9d1",
+        "name": "Red Carrots Market Ltd",
+        "popularity": 0.850601874820482,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "51e8dc45498ec752e43532a9",
+        "name": "Cardero Grocery",
+        "popularity": 0.9542000678904353,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "4c6adffe9669e21e4db0a951",
+        "name": "Danial Foods Inc",
+        "popularity": 0.9025380578113168,
+        "venue_reality_bucket": "VeryHigh"
+    },
+    {
+        "fsq_id": "46b6796490d34288422e9c35",
+        "name": "Better Greens",
+        "popularity": 0.7270543384599316,
+        "venue_reality_bucket": "Medium"
+    },
+    {
+        "fsq_id": "4bca316e3740b713324b6065",
+        "name": "Saraya Canada Co. Ltd",
+        "popularity": 0.7103167349922971,
+        "venue_reality_bucket": "Medium"
+    },
+    {
+        "fsq_id": "4ba1a2c0f964a52038c537e3",
+        "name": "Freshco Food Mart",
+        "popularity": 0.9737707914458051,
+        "venue_reality_bucket": "High"
+    },
+    {
+        "fsq_id": "0a7976a1c0924cdebb48c6ee",
+        "name": "Harbour Front Market",
+        "popularity": 0.09383241507167664,
+        "venue_reality_bucket": "High"
     }
 ]
