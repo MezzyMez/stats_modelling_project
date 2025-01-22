@@ -20,6 +20,7 @@ For each station retrieved from City Bikes, we look up related places from the F
 - An example of data before summarization can be found at foursquare.json
 
 ### Connect to Yelp API
+For each station retrieved from City Bikes, we look up related restaurants & grocery stores within a 1000m radius. The API Call for each category resulted in a 3min call. Categories were harder to defined using the Yelp API thus making the number of businesses returned less usable for our purposes.
 
 
 ## Results
@@ -27,6 +28,9 @@ For each station retrieved from City Bikes, we look up related places from the F
 
 ## Challenges 
 (discuss challenges you faced in the project)
+- FourSquare API is limited to 50 items per query
+- FourSquare API call was long (10 min) due to 1800+ calls. 
+
 
 ## Future Goals
 (what would you do if you had more time?)
