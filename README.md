@@ -15,6 +15,7 @@ All data from Vancouver, BC, Canada was collected through the City Bikes API at 
 ### Connect to FourSquare API
 For each station retrieved from City Bikes, we look up related places from the FourSquare places API and append these to the dataframe. Categories for lookup are 'public_art', 'night_club', 'bicycle_store', 'coffee_shop', 'fast_food', 'museum' & 'grocery_store'.
 - API call for 7 categories on 260 stations resulted in 1820 API calls and a 10min runtime. This was done (instead of passing all catgeories as 1 argument) to get as much data from a 50 result limit as possible
+- Radius was brought down to 500m to try to get more useful results
 - Data was appended to the station_df dataframe created by the City Bikes API using apply().
 - New DataFrame was written into a file in /data/foursquare_df.csv
 - An example of data before summarization can be found at foursquare.json
@@ -28,9 +29,12 @@ For each station retrieved from City Bikes, we look up related restaurants & gro
 
 ## Challenges 
 (discuss challenges you faced in the project)
-- FourSquare API is limited to 50 items per query
-- FourSquare API call was long (10 min) due to 1800+ calls. 
+- FourSquare & Yelp API is limited to 50 items per query
+- FourSquare API call was long (10 min) due to 1800+ calls for all categories of interest.
+- Yelp API categories were hard to navigate and isolate. 
 
 
 ## Future Goals
-(what would you do if you had more time?)
+- Explore Yelp API more and explore some logistic regression models
+- Compare bike_slots in stations to population density api: https://opengateway.telefonica.com/en/apis/population-density-data
+- 
