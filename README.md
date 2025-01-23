@@ -25,13 +25,15 @@ For each station retrieved from City Bikes, we look up related restaurants & gro
 
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+There are no significant correlations between bike slots in City Bike stations and the number of surround points of interest within a 500m radius. Linear regression models incompatible with data for these variables.
+
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
 - FourSquare & Yelp API is limited to 50 items per query
 - FourSquare API call was long (10 min) due to 1800+ calls for all categories of interest.
-- Yelp API categories were hard to navigate and isolate. 
+- Yelp API categories were hard to navigate and isolate.
+- No significant correlations for bike stations slots makes it impossible to work on creating a prediciton model.
 
 
 ## Future Goals
