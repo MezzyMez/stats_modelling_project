@@ -23,9 +23,25 @@ For each station retrieved from City Bikes, we look up related places from the F
 ### Connect to Yelp API
 For each station retrieved from City Bikes, we look up related restaurants & grocery stores within a 1000m radius. The API Call for each category resulted in a 3min call. Categories were harder to defined using the Yelp API thus making the number of businesses returned less usable for our purposes.
 
+### Joining & Cleaning data
+Once the data from FourSquare was chosen to be used with City Bikes station data, the dataframes had to be merged. Dataframes were combined and basic exploratory data analysis was done through various functions, basic pairplots and correlation histograms.
+
+### Storing data in SQL Database
+A database called `bike_foursquare` was created to permanently store the resulting data frame in a table called `places` in the data directory.
+
+To address outliers, we removed any bike station slots that had a z-score of greater than 3. In addition, any result for places of interest that were exactly 50 were removed because this represented the maximum result possible rather than an actual number of places. 
+
+### Building a Regression model
+A linear regresssion model was proposed to estimate the number of bike slots in a station based on the number of surrounding businesses or attractions within a 500m radius. Using exploratory data analysis and viewing various scatter plots comparing bike slots to results were not suggestive of an obvious correlation. No predictive model was built.
+
+Exploratory Data Analysis was suggestive of a correlation between fast food restaurants and other places of interest (POI). A model was created using all other categories of places (public art, night clubs, bicycle stores, coffee shops, museums & grocery stores) to predict the number of fast food restaurants within 500m of a bike station. 
 
 ## Results
 There are no significant correlations between bike slots in City Bike stations and the number of surround points of interest within a 500m radius. Linear regression models incompatible with data for these variables.
+
+However, there were correlations to be found between different categories of places. When using fast food restaurants as the dependant variable it was concluded that the best fit scenario had independant variables of night clubs and coffee shops. 
+
+`fast_food_restaurants = 0.51 + (0.75 * night_club) + (0.31 * coffee_shop)`
 
 
 
@@ -39,4 +55,3 @@ There are no significant correlations between bike slots in City Bike stations a
 ## Future Goals
 - Explore Yelp API more and explore some logistic regression models
 - Compare bike_slots in stations to population density api: https://opengateway.telefonica.com/en/apis/population-density-data
-- 
