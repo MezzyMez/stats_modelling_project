@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-The goal of this project is to parse data from bike stations in Vancouver, British Columbia, Canada from the City Bikes API. With the data of all bike locations, we will compare these locations to data available from the FourSquare and Yelp APIs to determine relationships from the bike locations and surrounding attractions or businesses.
+The goal of this project is to determine relationships between City Bikes stations in Vancouver, British Columbia, Canada (from the City Bikes API) and their relationship with the surrounding business and attractions in the local area (gathered from FourSquare or YELP places API). The goal is to find a relationship between bike station size (number of bikes possible in a station) and the number of businesses/attractions in multiple chosen catgeories from APIs listing locations.
 
 ## Process
 ### Connect to City Bikes API
