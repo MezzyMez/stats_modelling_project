@@ -24,7 +24,7 @@ For each station retrieved from City Bikes, we look up related places from the F
 For each station retrieved from City Bikes, we look up related restaurants & grocery stores within a 1000m radius. The API Call for each category resulted in a 3min call. Categories were harder to defined using the Yelp API thus making the number of businesses returned less usable for our purposes.
 
 ### Joining & Cleaning data
-Once the data from FourSquare was chosen to be used with City Bikes station data, the dataframes had to be merged. Dataframes were combined and basic exploratory data analysis was done through various functions, basic pairplots and correlation histograms.
+Once the data from FourSquare was chosen to be used with City Bikes station data, the dataframes had to be merged. Dataframes were combined and basic exploratory data analysis was done through various functions, basic pairplots and correlation histograms. Outliers were removed using Z-scores over a vlue of 3. Also, any place of interest that had a value of exactly 50 was omitted because this was the maxiumum result of the API call and unlikely to indiciditive or a real quantity of places of interest.
 
 ### Storing data in SQL Database
 A database called `bike_foursquare` was created to permanently store the resulting data frame in a table called `places` in the data directory.
@@ -39,7 +39,7 @@ Exploratory Data Analysis was suggestive of a correlation between fast food rest
 ## Results
 There are no significant correlations between bike slots in City Bike stations and the number of surround points of interest within a 500m radius. Linear regression models incompatible with data for these variables.
 
-However, there were correlations to be found between different categories of places. When using fast food restaurants as the dependant variable it was concluded that the best fit scenario had independant variables of night clubs and coffee shops. 
+However, there were correlations to be found between different categories of places. When using fast food restaurants as the dependant variable it was concluded that the best fit scenario had independant variables of night clubs and coffee shops. The number of fast food restaurants could be estimated by determining the number of night clubs and coffee shops in the 500m radius of each bike station.
 
 `fast_food_restaurants = 0.51 + (0.75 * night_club) + (0.31 * coffee_shop)`
 
